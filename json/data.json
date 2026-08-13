@@ -3,84 +3,84 @@
     {
       "id": "w1",
       "title": "Ram Wallpaper 1",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-1.jpg",
       "category": "Ram",
       "isPremium": false
     },
     {
       "id": "w2",
       "title": "Ram Wallpaper 2",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-2.jpg",
       "category": "Ram",
       "isPremium": true
     },
     {
       "id": "w3",
       "title": "Ram Wallpaper 3",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-3.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-3.jpg",
       "category": "Ram",
       "isPremium": false
     },
     {
       "id": "w4",
       "title": "Ram Wallpaper 4",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-4.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-4.jpg",
       "category": "Ram",
       "isPremium": true
     },
     {
       "id": "w5",
       "title": "Ram Wallpaper 5",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-5.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-5.jpg",
       "category": "Ram",
       "isPremium": false
     },
     {
       "id": "w6",
       "title": "Ram Wallpaper 6",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-6.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-6.jpg",
       "category": "Ram",
       "isPremium": false
     },
     {
       "id": "w7",
       "title": "Ram Wallpaper 7",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-7.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-7.jpg",
       "category": "Ram",
       "isPremium": true
     },
     {
       "id": "w8",
       "title": "Ram Wallpaper 8",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-8.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-8.jpg",
       "category": "Ram",
       "isPremium": false
     },
     {
       "id": "w9",
       "title": "Ram Wallpaper 9",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-9.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-9.jpg",
       "category": "Ram",
       "isPremium": false
     },
     {
       "id": "w10",
       "title": "Ram Wallpaper 10",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-10.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-10.jpg",
       "category": "Ram",
       "isPremium": true
     },
     {
       "id": "w11",
       "title": "Ram Wallpaper 11",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-11.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-11.jpg",
       "category": "Ram",
       "isPremium": false
     },
     {
       "id": "w12",
       "title": "Ram Wallpaper 12",
-      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-12.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/wallpaper/ram-wallpaper-12.jpg",
       "category": "Ram",
       "isPremium": false
     }
@@ -89,7 +89,7 @@
     {
       "id": "r1",
       "title": "Ram Ringtone 1",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-1.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-1.mp3",
       "duration": "00:20",
       "category": "Trending",
       "isPremium": false
@@ -97,7 +97,7 @@
     {
       "id": "r2",
       "title": "Ram Ringtone 2",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-2.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-2.mp3",
       "duration": "00:46",
       "category": "Bhajan",
       "isPremium": false
@@ -105,7 +105,7 @@
     {
       "id": "r3",
       "title": "Ram Ringtone 3",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-3.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-3.mp3",
       "duration": "00:25",
       "category": "Trending",
       "isPremium": false
@@ -113,7 +113,7 @@
     {
       "id": "r4",
       "title": "Ram Ringtone 4",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-4.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-4.mp3",
       "duration": "00:12",
       "category": "Mantra",
       "isPremium": false
@@ -121,7 +121,7 @@
     {
       "id": "r5",
       "title": "Ram Ringtone 5",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-5.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-5.mp3",
       "duration": "00:16",
       "category": "Bhajan",
       "isPremium": false
@@ -129,7 +129,7 @@
     {
       "id": "r6",
       "title": "Ram Ringtone 6",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-6.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-6.mp3",
       "duration": "01:10",
       "category": "Mantra",
       "isPremium": false
@@ -137,7 +137,7 @@
     {
       "id": "r7",
       "title": "Ram Ringtone 7",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-7.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-7.mp3",
       "duration": "00:14",
       "category": "Trending",
       "isPremium": false
@@ -145,7 +145,7 @@
     {
       "id": "r8",
       "title": "Ram Ringtone 8",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-8.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-8.mp3",
       "duration": "00:21",
       "category": "Mantra",
       "isPremium": false
@@ -153,7 +153,7 @@
     {
       "id": "r9",
       "title": "Ram Ringtone 9",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-9.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-9.mp3",
       "duration": "00:19",
       "category": "Bhajan",
       "isPremium": false
@@ -161,7 +161,7 @@
     {
       "id": "r10",
       "title": "Ram Ringtone 10",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-10.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-10.mp3",
       "duration": "00:24",
       "category": "Trending",
       "isPremium": false
@@ -169,7 +169,7 @@
     {
       "id": "r11",
       "title": "Ram Ringtone 11",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-11.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-11.mp3",
       "duration": "00:17",
       "category": "Bhajan",
       "isPremium": false
@@ -177,7 +177,7 @@
     {
       "id": "r12",
       "title": "Ram Ringtone 12",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-12.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-12.mp3",
       "duration": "00:21",
       "category": "Mantra",
       "isPremium": false
@@ -185,7 +185,7 @@
     {
       "id": "r13",
       "title": "Ram Ringtone 13",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-13.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-13.mp3",
       "duration": "00:21",
       "category": "Trending",
       "isPremium": false
@@ -193,7 +193,7 @@
     {
       "id": "r14",
       "title": "Ram Ringtone 14",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-14.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-14.mp3",
       "duration": "00:20",
       "category": "Mantra",
       "isPremium": false
@@ -201,7 +201,7 @@
     {
       "id": "r15",
       "title": "Ram Ringtone 15",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-15.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-15.mp3",
       "duration": "00:24",
       "category": "Bhajan",
       "isPremium": false
@@ -209,7 +209,7 @@
     {
       "id": "r16",
       "title": "Ram Ringtone 16",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-16.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-16.mp3",
       "duration": "00:24",
       "category": "Trending",
       "isPremium": false
@@ -217,7 +217,7 @@
     {
       "id": "r17",
       "title": "Ram Ringtone 17",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-17.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-17.mp3",
       "duration": "00:09",
       "category": "Mantra",
       "isPremium": false
@@ -225,7 +225,7 @@
     {
       "id": "r18",
       "title": "Ram Ringtone 18",
-      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-18.mp3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/audio/ram-ringtone-18.mp3",
       "duration": "00:22",
       "category": "Bhajan",
       "isPremium": false
@@ -234,701 +234,701 @@
   "quotes_gu": [
     {
       "id": "q1",
-      "text": "શ્રીરામનું નામ માત્ર શબ્દ નથી, એ જીવનને સાચા માર્ગે લઈ જતી અખૂટ શક્તિ છે.",
-      "author": "ગોસ્વામી તુલસીદાસ",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aae\u0abe\u0aa4\u0acd\u0ab0 \u0ab6\u0aac\u0acd\u0aa6 \u0aa8\u0aa5\u0ac0, \u0a8f \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0ab8\u0abe\u0a9a\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97\u0ac7 \u0ab2\u0a88 \u0a9c\u0aa4\u0ac0 \u0a85\u0a96\u0ac2\u0a9f \u0ab6\u0a95\u0acd\u0aa4\u0abf \u0a9b\u0ac7.",
+      "author": "\u0a97\u0acb\u0ab8\u0acd\u0ab5\u0abe\u0aae\u0ac0 \u0aa4\u0ac1\u0ab2\u0ab8\u0ac0\u0aa6\u0abe\u0ab8",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q2",
-      "text": "જ્યાં શ્રીરામનું સ્મરણ હોય છે, ત્યાં ભય નહીં પરંતુ વિશ્વાસ અને શાંતિનો વાસ હોય છે.",
-      "author": "સંત તુલસીદાસ",
+      "text": "\u0a9c\u0acd\u0aaf\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0ab9\u0acb\u0aaf \u0a9b\u0ac7, \u0aa4\u0acd\u0aaf\u0abe\u0a82 \u0aad\u0aaf \u0aa8\u0ab9\u0ac0\u0a82 \u0aaa\u0ab0\u0a82\u0aa4\u0ac1 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a85\u0aa8\u0ac7 \u0ab6\u0abe\u0a82\u0aa4\u0abf\u0aa8\u0acb \u0ab5\u0abe\u0ab8 \u0ab9\u0acb\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0ab8\u0a82\u0aa4 \u0aa4\u0ac1\u0ab2\u0ab8\u0ac0\u0aa6\u0abe\u0ab8",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q3",
-      "text": "મર્યાદા, સત્ય અને ધર્મનું જીવંત સ્વરૂપ એટલે પ્રભુ શ્રીરામ.",
-      "author": "વાલ્મીકિ",
+      "text": "\u0aae\u0ab0\u0acd\u0aaf\u0abe\u0aa6\u0abe, \u0ab8\u0aa4\u0acd\u0aaf \u0a85\u0aa8\u0ac7 \u0aa7\u0ab0\u0acd\u0aae\u0aa8\u0ac1\u0a82 \u0a9c\u0ac0\u0ab5\u0a82\u0aa4 \u0ab8\u0acd\u0ab5\u0ab0\u0ac2\u0aaa \u0a8f\u0a9f\u0ab2\u0ac7 \u0aaa\u0acd\u0ab0\u0aad\u0ac1 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae.",
+      "author": "\u0ab5\u0abe\u0ab2\u0acd\u0aae\u0ac0\u0a95\u0abf",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q4",
-      "text": "દરેક મુશ્કેલીમાં શ્રીરામ પરનો વિશ્વાસ તમને નવી શક્તિ અને હિંમત આપે છે.",
-      "author": "સ્વામી વિવેકાનંદ",
+      "text": "\u0aa6\u0ab0\u0ac7\u0a95 \u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2\u0ac0\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0aaa\u0ab0\u0aa8\u0acb \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0aa4\u0aae\u0aa8\u0ac7 \u0aa8\u0ab5\u0ac0 \u0ab6\u0a95\u0acd\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0ab9\u0abf\u0a82\u0aae\u0aa4 \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0ab8\u0acd\u0ab5\u0abe\u0aae\u0ac0 \u0ab5\u0abf\u0ab5\u0ac7\u0a95\u0abe\u0aa8\u0a82\u0aa6",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q5",
-      "text": "શ્રીરામનું જીવન શીખવે છે કે ધર્મના માર્ગ પર ચાલનારનો અંતે હંમેશા વિજય થાય છે.",
-      "author": "વાલ્મીકિ",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0a9c\u0ac0\u0ab5\u0aa8 \u0ab6\u0ac0\u0a96\u0ab5\u0ac7 \u0a9b\u0ac7 \u0a95\u0ac7 \u0aa7\u0ab0\u0acd\u0aae\u0aa8\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97 \u0aaa\u0ab0 \u0a9a\u0abe\u0ab2\u0aa8\u0abe\u0ab0\u0aa8\u0acb \u0a85\u0a82\u0aa4\u0ac7 \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0ab5\u0abf\u0a9c\u0aaf \u0aa5\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0ab5\u0abe\u0ab2\u0acd\u0aae\u0ac0\u0a95\u0abf",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q6",
-      "text": "જેના હૃદયમાં શ્રીરામ વસે છે, તેના જીવનમાં પ્રેમ, શાંતિ અને સુખ આપમેળે આવી જાય છે.",
-      "author": "સંત કબીર",
+      "text": "\u0a9c\u0ac7\u0aa8\u0abe \u0ab9\u0ac3\u0aa6\u0aaf\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0ab5\u0ab8\u0ac7 \u0a9b\u0ac7, \u0aa4\u0ac7\u0aa8\u0abe \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0aaa\u0acd\u0ab0\u0ac7\u0aae, \u0ab6\u0abe\u0a82\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0ab8\u0ac1\u0a96 \u0a86\u0aaa\u0aae\u0ac7\u0ab3\u0ac7 \u0a86\u0ab5\u0ac0 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0ab8\u0a82\u0aa4 \u0a95\u0aac\u0ac0\u0ab0",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q7",
-      "text": "શ્રીરામનું સ્મરણ માત્ર ભક્તિ નથી, તે જીવનને ઉજ્જવળ બનાવતી દિવ્ય પ્રેરણા છે.",
-      "author": "ગોસ્વામી તુલસીદાસ",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aae\u0abe\u0aa4\u0acd\u0ab0 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0aa8\u0aa5\u0ac0, \u0aa4\u0ac7 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0a89\u0a9c\u0acd\u0a9c\u0ab5\u0ab3 \u0aac\u0aa8\u0abe\u0ab5\u0aa4\u0ac0 \u0aa6\u0abf\u0ab5\u0acd\u0aaf \u0aaa\u0acd\u0ab0\u0ac7\u0ab0\u0aa3\u0abe \u0a9b\u0ac7.",
+      "author": "\u0a97\u0acb\u0ab8\u0acd\u0ab5\u0abe\u0aae\u0ac0 \u0aa4\u0ac1\u0ab2\u0ab8\u0ac0\u0aa6\u0abe\u0ab8",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q8",
-      "text": "શ્રીરામના આશીર્વાદ સાથે શરૂ થયેલું દરેક કાર્ય સફળતા તરફ આગળ વધે છે.",
-      "author": "મોરારી બાપુ",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6 \u0ab8\u0abe\u0aa5\u0ac7 \u0ab6\u0ab0\u0ac2 \u0aa5\u0aaf\u0ac7\u0ab2\u0ac1\u0a82 \u0aa6\u0ab0\u0ac7\u0a95 \u0a95\u0abe\u0ab0\u0acd\u0aaf \u0ab8\u0aab\u0ab3\u0aa4\u0abe \u0aa4\u0ab0\u0aab \u0a86\u0a97\u0ab3 \u0ab5\u0aa7\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0aae\u0acb\u0ab0\u0abe\u0ab0\u0ac0 \u0aac\u0abe\u0aaa\u0ac1",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q9",
-      "text": "સંકટ કેટલું પણ મોટું હોય, શ્રીરામનું નામ મનને અડગ વિશ્વાસથી ભરી દે છે.",
-      "author": "સંત તુલસીદાસ",
+      "text": "\u0ab8\u0a82\u0a95\u0a9f \u0a95\u0ac7\u0a9f\u0ab2\u0ac1\u0a82 \u0aaa\u0aa3 \u0aae\u0acb\u0a9f\u0ac1\u0a82 \u0ab9\u0acb\u0aaf, \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aae\u0aa8\u0aa8\u0ac7 \u0a85\u0aa1\u0a97 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8\u0aa5\u0ac0 \u0aad\u0ab0\u0ac0 \u0aa6\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0ab8\u0a82\u0aa4 \u0aa4\u0ac1\u0ab2\u0ab8\u0ac0\u0aa6\u0abe\u0ab8",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q10",
-      "text": "સત્ય અને કર્તવ્યના માર્ગે ચાલવું હોય તો શ્રીરામના જીવનથી મોટી કોઈ પ્રેરણા નથી.",
-      "author": "વાલ્મીકિ",
+      "text": "\u0ab8\u0aa4\u0acd\u0aaf \u0a85\u0aa8\u0ac7 \u0a95\u0ab0\u0acd\u0aa4\u0ab5\u0acd\u0aaf\u0aa8\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97\u0ac7 \u0a9a\u0abe\u0ab2\u0ab5\u0ac1\u0a82 \u0ab9\u0acb\u0aaf \u0aa4\u0acb \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a9c\u0ac0\u0ab5\u0aa8\u0aa5\u0ac0 \u0aae\u0acb\u0a9f\u0ac0 \u0a95\u0acb\u0a88 \u0aaa\u0acd\u0ab0\u0ac7\u0ab0\u0aa3\u0abe \u0aa8\u0aa5\u0ac0.",
+      "author": "\u0ab5\u0abe\u0ab2\u0acd\u0aae\u0ac0\u0a95\u0abf",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q11",
-      "text": "શ્રીરામનું સ્મરણ મનને શાંતિ, આત્માને શક્તિ અને જીવનને નવી દિશા આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aae\u0aa8\u0aa8\u0ac7 \u0ab6\u0abe\u0a82\u0aa4\u0abf, \u0a86\u0aa4\u0acd\u0aae\u0abe\u0aa8\u0ac7 \u0ab6\u0a95\u0acd\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0aa8\u0ab5\u0ac0 \u0aa6\u0abf\u0ab6\u0abe \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q12",
-      "text": "જેના જીવનમાં શ્રીરામનો આશીર્વાદ હોય છે, તેના માટે દરેક મુશ્કેલી સરળ બની જાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7\u0aa8\u0abe \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0acb \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6 \u0ab9\u0acb\u0aaf \u0a9b\u0ac7, \u0aa4\u0ac7\u0aa8\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2\u0ac0 \u0ab8\u0ab0\u0ab3 \u0aac\u0aa8\u0ac0 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q13",
-      "text": "શ્રીરામનું નામ ભક્તિના માર્ગ પર ચાલનાર માટે સૌથી મોટો આધાર છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aad\u0a95\u0acd\u0aa4\u0abf\u0aa8\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97 \u0aaa\u0ab0 \u0a9a\u0abe\u0ab2\u0aa8\u0abe\u0ab0 \u0aae\u0abe\u0a9f\u0ac7 \u0ab8\u0acc\u0aa5\u0ac0 \u0aae\u0acb\u0a9f\u0acb \u0a86\u0aa7\u0abe\u0ab0 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q14",
-      "text": "સાચા મનથી લેવાયેલું શ્રીરામનું નામ જીવનમાં આશા અને આત્મવિશ્વાસ જગાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab8\u0abe\u0a9a\u0abe \u0aae\u0aa8\u0aa5\u0ac0 \u0ab2\u0ac7\u0ab5\u0abe\u0aaf\u0ac7\u0ab2\u0ac1\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0a86\u0ab6\u0abe \u0a85\u0aa8\u0ac7 \u0a86\u0aa4\u0acd\u0aae\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a9c\u0a97\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q15",
-      "text": "ધર્મના માર્ગે ચાલવું હોય તો શ્રીરામના આદર્શો જીવનમાં ઉતારવા જરૂરી છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aa7\u0ab0\u0acd\u0aae\u0aa8\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97\u0ac7 \u0a9a\u0abe\u0ab2\u0ab5\u0ac1\u0a82 \u0ab9\u0acb\u0aaf \u0aa4\u0acb \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0aa6\u0ab0\u0acd\u0ab6\u0acb \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0a89\u0aa4\u0abe\u0ab0\u0ab5\u0abe \u0a9c\u0ab0\u0ac2\u0ab0\u0ac0 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q16",
-      "text": "શ્રીરામનો આશરો લેનાર વ્યક્તિ ક્યારેય એકલો અનુભવતો નથી.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0acb \u0a86\u0ab6\u0ab0\u0acb \u0ab2\u0ac7\u0aa8\u0abe\u0ab0 \u0ab5\u0acd\u0aaf\u0a95\u0acd\u0aa4\u0abf \u0a95\u0acd\u0aaf\u0abe\u0ab0\u0ac7\u0aaf \u0a8f\u0a95\u0ab2\u0acb \u0a85\u0aa8\u0ac1\u0aad\u0ab5\u0aa4\u0acb \u0aa8\u0aa5\u0ac0.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q17",
-      "text": "વિશ્વાસ અને ભક્તિ સાથે લેવાયેલું શ્રીરામનું નામ જીવનને ઉજ્જવળ બનાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a85\u0aa8\u0ac7 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0ab8\u0abe\u0aa5\u0ac7 \u0ab2\u0ac7\u0ab5\u0abe\u0aaf\u0ac7\u0ab2\u0ac1\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0a89\u0a9c\u0acd\u0a9c\u0ab5\u0ab3 \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q18",
-      "text": "શ્રીરામના આશીર્વાદથી અશક્ય લાગતા કાર્યો પણ સરળ બની શકે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6\u0aa5\u0ac0 \u0a85\u0ab6\u0a95\u0acd\u0aaf \u0ab2\u0abe\u0a97\u0aa4\u0abe \u0a95\u0abe\u0ab0\u0acd\u0aaf\u0acb \u0aaa\u0aa3 \u0ab8\u0ab0\u0ab3 \u0aac\u0aa8\u0ac0 \u0ab6\u0a95\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q19",
-      "text": "શ્રીરામનું જીવન આપણને સત્ય, ધર્મ અને કર્તવ્યનું મહત્વ સમજાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0a9c\u0ac0\u0ab5\u0aa8 \u0a86\u0aaa\u0aa3\u0aa8\u0ac7 \u0ab8\u0aa4\u0acd\u0aaf, \u0aa7\u0ab0\u0acd\u0aae \u0a85\u0aa8\u0ac7 \u0a95\u0ab0\u0acd\u0aa4\u0ab5\u0acd\u0aaf\u0aa8\u0ac1\u0a82 \u0aae\u0ab9\u0aa4\u0acd\u0ab5 \u0ab8\u0aae\u0a9c\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q20",
-      "text": "જ્યાં શ્રીરામ પ્રત્યે પ્રેમ હોય છે, ત્યાં મનમાં ક્યારેય અંધકાર રહેતો નથી.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0acd\u0aaf\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0aaa\u0acd\u0ab0\u0aa4\u0acd\u0aaf\u0ac7 \u0aaa\u0acd\u0ab0\u0ac7\u0aae \u0ab9\u0acb\u0aaf \u0a9b\u0ac7, \u0aa4\u0acd\u0aaf\u0abe\u0a82 \u0aae\u0aa8\u0aae\u0abe\u0a82 \u0a95\u0acd\u0aaf\u0abe\u0ab0\u0ac7\u0aaf \u0a85\u0a82\u0aa7\u0a95\u0abe\u0ab0 \u0ab0\u0ab9\u0ac7\u0aa4\u0acb \u0aa8\u0aa5\u0ac0.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q21",
-      "text": "શ્રીરામની ભક્તિ મનને સ્થિરતા અને હૃદયને નિર્મળતા આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0aae\u0aa8\u0aa8\u0ac7 \u0ab8\u0acd\u0aa5\u0abf\u0ab0\u0aa4\u0abe \u0a85\u0aa8\u0ac7 \u0ab9\u0ac3\u0aa6\u0aaf\u0aa8\u0ac7 \u0aa8\u0abf\u0ab0\u0acd\u0aae\u0ab3\u0aa4\u0abe \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q22",
-      "text": "શ્રીરામનું સ્મરણ દરેક દિવસને શુભ અને દરેક કાર્યને સફળ બનાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aa6\u0ab0\u0ac7\u0a95 \u0aa6\u0abf\u0ab5\u0ab8\u0aa8\u0ac7 \u0ab6\u0ac1\u0aad \u0a85\u0aa8\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0a95\u0abe\u0ab0\u0acd\u0aaf\u0aa8\u0ac7 \u0ab8\u0aab\u0ab3 \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q23",
-      "text": "જે વ્યક્તિ સત્યનો સાથ આપે છે, તેના જીવનમાં શ્રીરામની કૃપા હંમેશા રહે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7 \u0ab5\u0acd\u0aaf\u0a95\u0acd\u0aa4\u0abf \u0ab8\u0aa4\u0acd\u0aaf\u0aa8\u0acb \u0ab8\u0abe\u0aa5 \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7, \u0aa4\u0ac7\u0aa8\u0abe \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0a95\u0ac3\u0aaa\u0abe \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q24",
-      "text": "શ્રીરામનું નામ જીવનના દરેક સંઘર્ષમાં નવી શક્તિ અને હિંમત આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0abe \u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0a82\u0a98\u0ab0\u0acd\u0ab7\u0aae\u0abe\u0a82 \u0aa8\u0ab5\u0ac0 \u0ab6\u0a95\u0acd\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0ab9\u0abf\u0a82\u0aae\u0aa4 \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q25",
-      "text": "ભક્તિનો સાચો માર્ગ શ્રીરામના ચરણોમાં સમર્પિત થવાથી શરૂ થાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aad\u0a95\u0acd\u0aa4\u0abf\u0aa8\u0acb \u0ab8\u0abe\u0a9a\u0acb \u0aae\u0abe\u0ab0\u0acd\u0a97 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a9a\u0ab0\u0aa3\u0acb\u0aae\u0abe\u0a82 \u0ab8\u0aae\u0ab0\u0acd\u0aaa\u0abf\u0aa4 \u0aa5\u0ab5\u0abe\u0aa5\u0ac0 \u0ab6\u0ab0\u0ac2 \u0aa5\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q26",
-      "text": "શ્રીરામનું સ્મરણ જીવનની દરેક ક્ષણને પવિત્ર અને અર્થપૂર્ણ બનાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac0 \u0aa6\u0ab0\u0ac7\u0a95 \u0a95\u0acd\u0ab7\u0aa3\u0aa8\u0ac7 \u0aaa\u0ab5\u0abf\u0aa4\u0acd\u0ab0 \u0a85\u0aa8\u0ac7 \u0a85\u0ab0\u0acd\u0aa5\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q27",
-      "text": "શ્રીરામના આદર્શો પર ચાલનાર વ્યક્તિ હંમેશા સન્માન પ્રાપ્ત કરે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0aa6\u0ab0\u0acd\u0ab6\u0acb \u0aaa\u0ab0 \u0a9a\u0abe\u0ab2\u0aa8\u0abe\u0ab0 \u0ab5\u0acd\u0aaf\u0a95\u0acd\u0aa4\u0abf \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0ab8\u0aa8\u0acd\u0aae\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0aaa\u0acd\u0aa4 \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q28",
-      "text": "શ્રીરામ પરનો વિશ્વાસ જીવનમાં આત્મબળ અને ધૈર્ય બંને વધારે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0aaa\u0ab0\u0aa8\u0acb \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0a86\u0aa4\u0acd\u0aae\u0aac\u0ab3 \u0a85\u0aa8\u0ac7 \u0aa7\u0ac8\u0ab0\u0acd\u0aaf \u0aac\u0a82\u0aa8\u0ac7 \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q29",
-      "text": "શ્રીરામનું નામ દરેક દુઃખને સહન કરવાની નવી શક્તિ આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aa6\u0ab0\u0ac7\u0a95 \u0aa6\u0ac1\u0a83\u0a96\u0aa8\u0ac7 \u0ab8\u0ab9\u0aa8 \u0a95\u0ab0\u0ab5\u0abe\u0aa8\u0ac0 \u0aa8\u0ab5\u0ac0 \u0ab6\u0a95\u0acd\u0aa4\u0abf \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q30",
-      "text": "જ્યાં શ્રીરામનું નામ ગુંજે છે, ત્યાં સુખ, શાંતિ અને સકારાત્મકતા વસે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0acd\u0aaf\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0a97\u0ac1\u0a82\u0a9c\u0ac7 \u0a9b\u0ac7, \u0aa4\u0acd\u0aaf\u0abe\u0a82 \u0ab8\u0ac1\u0a96, \u0ab6\u0abe\u0a82\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0ab8\u0a95\u0abe\u0ab0\u0abe\u0aa4\u0acd\u0aae\u0a95\u0aa4\u0abe \u0ab5\u0ab8\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q31",
-      "text": "શ્રીરામનું સ્મરણ મનમાંથી ભય દૂર કરીને વિશ્વાસનું પ્રકાશ ફેલાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aae\u0aa8\u0aae\u0abe\u0a82\u0aa5\u0ac0 \u0aad\u0aaf \u0aa6\u0ac2\u0ab0 \u0a95\u0ab0\u0ac0\u0aa8\u0ac7 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8\u0aa8\u0ac1\u0a82 \u0aaa\u0acd\u0ab0\u0a95\u0abe\u0ab6 \u0aab\u0ac7\u0ab2\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q32",
-      "text": "શ્રીરામની કૃપા મળે ત્યારે જીવનનો દરેક માર્ગ સરળ બની જાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0a95\u0ac3\u0aaa\u0abe \u0aae\u0ab3\u0ac7 \u0aa4\u0acd\u0aaf\u0abe\u0ab0\u0ac7 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0acb \u0aa6\u0ab0\u0ac7\u0a95 \u0aae\u0abe\u0ab0\u0acd\u0a97 \u0ab8\u0ab0\u0ab3 \u0aac\u0aa8\u0ac0 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q33",
-      "text": "ધૈર્ય, કરુણા અને સત્યનો માર્ગ બતાવનાર શ્રેષ્ઠ આદર્શ છે પ્રભુ શ્રીરામ.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aa7\u0ac8\u0ab0\u0acd\u0aaf, \u0a95\u0ab0\u0ac1\u0aa3\u0abe \u0a85\u0aa8\u0ac7 \u0ab8\u0aa4\u0acd\u0aaf\u0aa8\u0acb \u0aae\u0abe\u0ab0\u0acd\u0a97 \u0aac\u0aa4\u0abe\u0ab5\u0aa8\u0abe\u0ab0 \u0ab6\u0acd\u0ab0\u0ac7\u0ab7\u0acd\u0aa0 \u0a86\u0aa6\u0ab0\u0acd\u0ab6 \u0a9b\u0ac7 \u0aaa\u0acd\u0ab0\u0aad\u0ac1 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q34",
-      "text": "શ્રીરામનું નામ જીવનના દરેક નવા પ્રારંભ માટે શુભ આશીર્વાદ સમાન છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0abe \u0aa6\u0ab0\u0ac7\u0a95 \u0aa8\u0ab5\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0ab0\u0a82\u0aad \u0aae\u0abe\u0a9f\u0ac7 \u0ab6\u0ac1\u0aad \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6 \u0ab8\u0aae\u0abe\u0aa8 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q35",
-      "text": "જે હૃદયમાં શ્રીરામ વસે છે, ત્યાં અહંકાર માટે કોઈ સ્થાન રહેતું નથી.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7 \u0ab9\u0ac3\u0aa6\u0aaf\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0ab5\u0ab8\u0ac7 \u0a9b\u0ac7, \u0aa4\u0acd\u0aaf\u0abe\u0a82 \u0a85\u0ab9\u0a82\u0a95\u0abe\u0ab0 \u0aae\u0abe\u0a9f\u0ac7 \u0a95\u0acb\u0a88 \u0ab8\u0acd\u0aa5\u0abe\u0aa8 \u0ab0\u0ab9\u0ac7\u0aa4\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q36",
-      "text": "શ્રીરામનું સ્મરણ દરેક મુશ્કેલીમાં આશાની નવી કિરણ પ્રગટાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aa6\u0ab0\u0ac7\u0a95 \u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2\u0ac0\u0aae\u0abe\u0a82 \u0a86\u0ab6\u0abe\u0aa8\u0ac0 \u0aa8\u0ab5\u0ac0 \u0a95\u0abf\u0ab0\u0aa3 \u0aaa\u0acd\u0ab0\u0a97\u0a9f\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q37",
-      "text": "પ્રભુ શ્રીરામનો આશીર્વાદ હોય તો જીવનમાં અશક્ય પણ શક્ય બની જાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aaa\u0acd\u0ab0\u0aad\u0ac1 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0acb \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6 \u0ab9\u0acb\u0aaf \u0aa4\u0acb \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0a85\u0ab6\u0a95\u0acd\u0aaf \u0aaa\u0aa3 \u0ab6\u0a95\u0acd\u0aaf \u0aac\u0aa8\u0ac0 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q38",
-      "text": "શ્રીરામની ભક્તિ મનને વિનમ્રતા અને જીવનને સાચી સમૃદ્ધિ આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0aae\u0aa8\u0aa8\u0ac7 \u0ab5\u0abf\u0aa8\u0aae\u0acd\u0ab0\u0aa4\u0abe \u0a85\u0aa8\u0ac7 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0ab8\u0abe\u0a9a\u0ac0 \u0ab8\u0aae\u0ac3\u0aa6\u0acd\u0aa7\u0abf \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q39",
-      "text": "દરરોજ શ્રીરામનું સ્મરણ કરવાથી મનમાં નવી ઉર્જા અને શાંતિનો અનુભવ થાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aa6\u0ab0\u0ab0\u0acb\u0a9c \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0a95\u0ab0\u0ab5\u0abe\u0aa5\u0ac0 \u0aae\u0aa8\u0aae\u0abe\u0a82 \u0aa8\u0ab5\u0ac0 \u0a89\u0ab0\u0acd\u0a9c\u0abe \u0a85\u0aa8\u0ac7 \u0ab6\u0abe\u0a82\u0aa4\u0abf\u0aa8\u0acb \u0a85\u0aa8\u0ac1\u0aad\u0ab5 \u0aa5\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q40",
-      "text": "શ્રીરામના ચરણોમાં સમર્પિત જીવન હંમેશા સુખ, સંતોષ અને શાંતિથી ભરેલું રહે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a9a\u0ab0\u0aa3\u0acb\u0aae\u0abe\u0a82 \u0ab8\u0aae\u0ab0\u0acd\u0aaa\u0abf\u0aa4 \u0a9c\u0ac0\u0ab5\u0aa8 \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0ab8\u0ac1\u0a96, \u0ab8\u0a82\u0aa4\u0acb\u0ab7 \u0a85\u0aa8\u0ac7 \u0ab6\u0abe\u0a82\u0aa4\u0abf\u0aa5\u0ac0 \u0aad\u0ab0\u0ac7\u0ab2\u0ac1\u0a82 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q41",
-      "text": "શ્રીરામનું સ્મરણ જીવનના દરેક અંધકારમાં આશાનો પ્રકાશ બનીને માર્ગ બતાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0abe \u0aa6\u0ab0\u0ac7\u0a95 \u0a85\u0a82\u0aa7\u0a95\u0abe\u0ab0\u0aae\u0abe\u0a82 \u0a86\u0ab6\u0abe\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0a95\u0abe\u0ab6 \u0aac\u0aa8\u0ac0\u0aa8\u0ac7 \u0aae\u0abe\u0ab0\u0acd\u0a97 \u0aac\u0aa4\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q42",
-      "text": "પ્રભુ શ્રીરામ પરનો અડગ વિશ્વાસ દરેક સંઘર્ષને સફળતામાં બદલવાની શક્તિ આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aaa\u0acd\u0ab0\u0aad\u0ac1 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0aaa\u0ab0\u0aa8\u0acb \u0a85\u0aa1\u0a97 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0a82\u0a98\u0ab0\u0acd\u0ab7\u0aa8\u0ac7 \u0ab8\u0aab\u0ab3\u0aa4\u0abe\u0aae\u0abe\u0a82 \u0aac\u0aa6\u0ab2\u0ab5\u0abe\u0aa8\u0ac0 \u0ab6\u0a95\u0acd\u0aa4\u0abf \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q43",
-      "text": "શ્રીરામના આદર્શો જીવનમાં અપનાવનાર વ્યક્તિ હંમેશા સન્માન અને વિશ્વાસ મેળવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0aa6\u0ab0\u0acd\u0ab6\u0acb \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0a85\u0aaa\u0aa8\u0abe\u0ab5\u0aa8\u0abe\u0ab0 \u0ab5\u0acd\u0aaf\u0a95\u0acd\u0aa4\u0abf \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0ab8\u0aa8\u0acd\u0aae\u0abe\u0aa8 \u0a85\u0aa8\u0ac7 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0aae\u0ac7\u0ab3\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q44",
-      "text": "શ્રીરામનું નામ માત્ર જાપ નથી, તે આત્માને શાંતિ અને મનને સ્થિરતા આપતું અમૃત છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aae\u0abe\u0aa4\u0acd\u0ab0 \u0a9c\u0abe\u0aaa \u0aa8\u0aa5\u0ac0, \u0aa4\u0ac7 \u0a86\u0aa4\u0acd\u0aae\u0abe\u0aa8\u0ac7 \u0ab6\u0abe\u0a82\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0aae\u0aa8\u0aa8\u0ac7 \u0ab8\u0acd\u0aa5\u0abf\u0ab0\u0aa4\u0abe \u0a86\u0aaa\u0aa4\u0ac1\u0a82 \u0a85\u0aae\u0ac3\u0aa4 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q45",
-      "text": "જ્યાં ભક્તિમાં શ્રીરામ વસે છે, ત્યાં જીવનમાં ક્યારેય નિરાશા ટકી શકતી નથી.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0acd\u0aaf\u0abe\u0a82 \u0aad\u0a95\u0acd\u0aa4\u0abf\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0ab5\u0ab8\u0ac7 \u0a9b\u0ac7, \u0aa4\u0acd\u0aaf\u0abe\u0a82 \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0a95\u0acd\u0aaf\u0abe\u0ab0\u0ac7\u0aaf \u0aa8\u0abf\u0ab0\u0abe\u0ab6\u0abe \u0a9f\u0a95\u0ac0 \u0ab6\u0a95\u0aa4\u0ac0 \u0aa8\u0aa5\u0ac0.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q46",
-      "text": "શ્રીરામની કૃપા મળવાથી મુશ્કેલ માર્ગ પણ સરળ અને આનંદમય બની જાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0a95\u0ac3\u0aaa\u0abe \u0aae\u0ab3\u0ab5\u0abe\u0aa5\u0ac0 \u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2 \u0aae\u0abe\u0ab0\u0acd\u0a97 \u0aaa\u0aa3 \u0ab8\u0ab0\u0ab3 \u0a85\u0aa8\u0ac7 \u0a86\u0aa8\u0a82\u0aa6\u0aae\u0aaf \u0aac\u0aa8\u0ac0 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q47",
-      "text": "દરેક સવાર શ્રીરામના સ્મરણથી શરૂ થાય તો આખો દિવસ આશીર્વાદથી ભરાઈ જાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0ab5\u0abe\u0ab0 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0ab8\u0acd\u0aae\u0ab0\u0aa3\u0aa5\u0ac0 \u0ab6\u0ab0\u0ac2 \u0aa5\u0abe\u0aaf \u0aa4\u0acb \u0a86\u0a96\u0acb \u0aa6\u0abf\u0ab5\u0ab8 \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6\u0aa5\u0ac0 \u0aad\u0ab0\u0abe\u0a88 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q48",
-      "text": "શ્રીરામનું જીવન શીખવે છે કે સત્યનો માર્ગ ભલે કઠિન હોય, પરંતુ વિજય તેનો જ થાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0a9c\u0ac0\u0ab5\u0aa8 \u0ab6\u0ac0\u0a96\u0ab5\u0ac7 \u0a9b\u0ac7 \u0a95\u0ac7 \u0ab8\u0aa4\u0acd\u0aaf\u0aa8\u0acb \u0aae\u0abe\u0ab0\u0acd\u0a97 \u0aad\u0ab2\u0ac7 \u0a95\u0aa0\u0abf\u0aa8 \u0ab9\u0acb\u0aaf, \u0aaa\u0ab0\u0a82\u0aa4\u0ac1 \u0ab5\u0abf\u0a9c\u0aaf \u0aa4\u0ac7\u0aa8\u0acb \u0a9c \u0aa5\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q49",
-      "text": "જેના હૃદયમાં શ્રીરામ માટે પ્રેમ હોય છે, તેનું જીવન હંમેશા પ્રકાશિત રહે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7\u0aa8\u0abe \u0ab9\u0ac3\u0aa6\u0aaf\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0aae\u0abe\u0a9f\u0ac7 \u0aaa\u0acd\u0ab0\u0ac7\u0aae \u0ab9\u0acb\u0aaf \u0a9b\u0ac7, \u0aa4\u0ac7\u0aa8\u0ac1\u0a82 \u0a9c\u0ac0\u0ab5\u0aa8 \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0aaa\u0acd\u0ab0\u0a95\u0abe\u0ab6\u0abf\u0aa4 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q50",
-      "text": "શ્રીરામની ભક્તિ મનને નમ્રતા, ધૈર્ય અને જીવનને નવી પ્રેરણા આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0aae\u0aa8\u0aa8\u0ac7 \u0aa8\u0aae\u0acd\u0ab0\u0aa4\u0abe, \u0aa7\u0ac8\u0ab0\u0acd\u0aaf \u0a85\u0aa8\u0ac7 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0aa8\u0ab5\u0ac0 \u0aaa\u0acd\u0ab0\u0ac7\u0ab0\u0aa3\u0abe \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q51",
-      "text": "શ્રીરામના ચરણોમાં સમર્પિત હૃદયને દુનિયાની કોઈ મુશ્કેલી હલાવી શકતી નથી.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a9a\u0ab0\u0aa3\u0acb\u0aae\u0abe\u0a82 \u0ab8\u0aae\u0ab0\u0acd\u0aaa\u0abf\u0aa4 \u0ab9\u0ac3\u0aa6\u0aaf\u0aa8\u0ac7 \u0aa6\u0ac1\u0aa8\u0abf\u0aaf\u0abe\u0aa8\u0ac0 \u0a95\u0acb\u0a88 \u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2\u0ac0 \u0ab9\u0ab2\u0abe\u0ab5\u0ac0 \u0ab6\u0a95\u0aa4\u0ac0 \u0aa8\u0aa5\u0ac0.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q52",
-      "text": "શ્રીરામનું સ્મરણ જીવનના દરેક નિર્ણયમાં યોગ્ય દિશા અને સાચી સમજ આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0abe \u0aa6\u0ab0\u0ac7\u0a95 \u0aa8\u0abf\u0ab0\u0acd\u0aa3\u0aaf\u0aae\u0abe\u0a82 \u0aaf\u0acb\u0a97\u0acd\u0aaf \u0aa6\u0abf\u0ab6\u0abe \u0a85\u0aa8\u0ac7 \u0ab8\u0abe\u0a9a\u0ac0 \u0ab8\u0aae\u0a9c \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q53",
-      "text": "સત્ય, કરુણા અને કર્તવ્યના માર્ગે ચાલનાર માટે શ્રીરામ હંમેશા પ્રેરણાસ્ત્રોત છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab8\u0aa4\u0acd\u0aaf, \u0a95\u0ab0\u0ac1\u0aa3\u0abe \u0a85\u0aa8\u0ac7 \u0a95\u0ab0\u0acd\u0aa4\u0ab5\u0acd\u0aaf\u0aa8\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97\u0ac7 \u0a9a\u0abe\u0ab2\u0aa8\u0abe\u0ab0 \u0aae\u0abe\u0a9f\u0ac7 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0aaa\u0acd\u0ab0\u0ac7\u0ab0\u0aa3\u0abe\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0acb\u0aa4 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q54",
-      "text": "શ્રીરામના આશીર્વાદથી જીવનની દરેક શરૂઆત શુભ અને દરેક અંત સફળ બને છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6\u0aa5\u0ac0 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac0 \u0aa6\u0ab0\u0ac7\u0a95 \u0ab6\u0ab0\u0ac2\u0a86\u0aa4 \u0ab6\u0ac1\u0aad \u0a85\u0aa8\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0a85\u0a82\u0aa4 \u0ab8\u0aab\u0ab3 \u0aac\u0aa8\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q55",
-      "text": "મનમાં શ્રીરામનો વિશ્વાસ હોય તો ભય ધીમે ધીમે હિંમતમાં બદલાઈ જાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aae\u0aa8\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0acb \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0ab9\u0acb\u0aaf \u0aa4\u0acb \u0aad\u0aaf \u0aa7\u0ac0\u0aae\u0ac7 \u0aa7\u0ac0\u0aae\u0ac7 \u0ab9\u0abf\u0a82\u0aae\u0aa4\u0aae\u0abe\u0a82 \u0aac\u0aa6\u0ab2\u0abe\u0a88 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q56",
-      "text": "શ્રીરામની ભક્તિ માત્ર ઉપાસના નથી, પરંતુ ઉત્તમ જીવન જીવવાની પ્રેરણા છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0aae\u0abe\u0aa4\u0acd\u0ab0 \u0a89\u0aaa\u0abe\u0ab8\u0aa8\u0abe \u0aa8\u0aa5\u0ac0, \u0aaa\u0ab0\u0a82\u0aa4\u0ac1 \u0a89\u0aa4\u0acd\u0aa4\u0aae \u0a9c\u0ac0\u0ab5\u0aa8 \u0a9c\u0ac0\u0ab5\u0ab5\u0abe\u0aa8\u0ac0 \u0aaa\u0acd\u0ab0\u0ac7\u0ab0\u0aa3\u0abe \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q57",
-      "text": "શ્રીરામનું નામ દરેક દુઃખને સહન કરવાની શક્તિ અને દરેક સુખમાં વિનમ્રતા શીખવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aa6\u0ab0\u0ac7\u0a95 \u0aa6\u0ac1\u0a83\u0a96\u0aa8\u0ac7 \u0ab8\u0ab9\u0aa8 \u0a95\u0ab0\u0ab5\u0abe\u0aa8\u0ac0 \u0ab6\u0a95\u0acd\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0ac1\u0a96\u0aae\u0abe\u0a82 \u0ab5\u0abf\u0aa8\u0aae\u0acd\u0ab0\u0aa4\u0abe \u0ab6\u0ac0\u0a96\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q58",
-      "text": "જ્યાં શ્રીરામનું સ્મરણ થાય છે, ત્યાં પ્રેમ, શાંતિ અને વિશ્વાસનો સદા નિવાસ રહે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0acd\u0aaf\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aa5\u0abe\u0aaf \u0a9b\u0ac7, \u0aa4\u0acd\u0aaf\u0abe\u0a82 \u0aaa\u0acd\u0ab0\u0ac7\u0aae, \u0ab6\u0abe\u0a82\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8\u0aa8\u0acb \u0ab8\u0aa6\u0abe \u0aa8\u0abf\u0ab5\u0abe\u0ab8 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q59",
-      "text": "શ્રીરામના આદર્શો જીવનને માત્ર સફળ નહીં પરંતુ અર્થપૂર્ણ પણ બનાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0aa6\u0ab0\u0acd\u0ab6\u0acb \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0aae\u0abe\u0aa4\u0acd\u0ab0 \u0ab8\u0aab\u0ab3 \u0aa8\u0ab9\u0ac0\u0a82 \u0aaa\u0ab0\u0a82\u0aa4\u0ac1 \u0a85\u0ab0\u0acd\u0aa5\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0aaa\u0aa3 \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q60",
-      "text": "શ્રીરામના ચરણોમાં સમર્પિત મન હંમેશા શાંતિ, સંતોષ અને આનંદનો અનુભવ કરે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a9a\u0ab0\u0aa3\u0acb\u0aae\u0abe\u0a82 \u0ab8\u0aae\u0ab0\u0acd\u0aaa\u0abf\u0aa4 \u0aae\u0aa8 \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0ab6\u0abe\u0a82\u0aa4\u0abf, \u0ab8\u0a82\u0aa4\u0acb\u0ab7 \u0a85\u0aa8\u0ac7 \u0a86\u0aa8\u0a82\u0aa6\u0aa8\u0acb \u0a85\u0aa8\u0ac1\u0aad\u0ab5 \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q61",
-      "text": "દરેક શ્વાસમાં શ્રીરામનું નામ હોય તો જીવનની દરેક ક્ષણ પવિત્ર બની જાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aa6\u0ab0\u0ac7\u0a95 \u0ab6\u0acd\u0ab5\u0abe\u0ab8\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0ab9\u0acb\u0aaf \u0aa4\u0acb \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac0 \u0aa6\u0ab0\u0ac7\u0a95 \u0a95\u0acd\u0ab7\u0aa3 \u0aaa\u0ab5\u0abf\u0aa4\u0acd\u0ab0 \u0aac\u0aa8\u0ac0 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q62",
-      "text": "શ્રીરામનું સ્મરણ મનના તોફાનને શાંત કરીને આત્મવિશ્વાસને મજબૂત બનાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aae\u0aa8\u0aa8\u0abe \u0aa4\u0acb\u0aab\u0abe\u0aa8\u0aa8\u0ac7 \u0ab6\u0abe\u0a82\u0aa4 \u0a95\u0ab0\u0ac0\u0aa8\u0ac7 \u0a86\u0aa4\u0acd\u0aae\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8\u0aa8\u0ac7 \u0aae\u0a9c\u0aac\u0ac2\u0aa4 \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q63",
-      "text": "જે વ્યક્તિ શ્રીરામના માર્ગે ચાલે છે, તે જીવનમાં ક્યારેય દિશાહીન બનતો નથી.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7 \u0ab5\u0acd\u0aaf\u0a95\u0acd\u0aa4\u0abf \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97\u0ac7 \u0a9a\u0abe\u0ab2\u0ac7 \u0a9b\u0ac7, \u0aa4\u0ac7 \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0a95\u0acd\u0aaf\u0abe\u0ab0\u0ac7\u0aaf \u0aa6\u0abf\u0ab6\u0abe\u0ab9\u0ac0\u0aa8 \u0aac\u0aa8\u0aa4\u0acb \u0aa8\u0aa5\u0ac0.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q64",
-      "text": "શ્રીરામનું નામ હૃદયમાં વિશ્વાસ અને જીવનમાં સકારાત્મકતા ભરી દે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0ab9\u0ac3\u0aa6\u0aaf\u0aae\u0abe\u0a82 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a85\u0aa8\u0ac7 \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0ab8\u0a95\u0abe\u0ab0\u0abe\u0aa4\u0acd\u0aae\u0a95\u0aa4\u0abe \u0aad\u0ab0\u0ac0 \u0aa6\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q65",
-      "text": "શ્રીરામના આશીર્વાદ સાથે કરેલું દરેક સારા કાર્ય જીવનને સફળતા તરફ દોરી જાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6 \u0ab8\u0abe\u0aa5\u0ac7 \u0a95\u0ab0\u0ac7\u0ab2\u0ac1\u0a82 \u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0abe\u0ab0\u0abe \u0a95\u0abe\u0ab0\u0acd\u0aaf \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0ab8\u0aab\u0ab3\u0aa4\u0abe \u0aa4\u0ab0\u0aab \u0aa6\u0acb\u0ab0\u0ac0 \u0a9c\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q66",
-      "text": "શ્રીરામની ભક્તિ મનમાં કરુણા, વાણીમાં મીઠાશ અને કર્મમાં સચ્ચાઈ લાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0aae\u0aa8\u0aae\u0abe\u0a82 \u0a95\u0ab0\u0ac1\u0aa3\u0abe, \u0ab5\u0abe\u0aa3\u0ac0\u0aae\u0abe\u0a82 \u0aae\u0ac0\u0aa0\u0abe\u0ab6 \u0a85\u0aa8\u0ac7 \u0a95\u0ab0\u0acd\u0aae\u0aae\u0abe\u0a82 \u0ab8\u0a9a\u0acd\u0a9a\u0abe\u0a88 \u0ab2\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q67",
-      "text": "શ્રીરામનું સ્મરણ જીવનને નવી આશા અને દરેક મુશ્કેલીમાં નવી હિંમત આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0aa8\u0ab5\u0ac0 \u0a86\u0ab6\u0abe \u0a85\u0aa8\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2\u0ac0\u0aae\u0abe\u0a82 \u0aa8\u0ab5\u0ac0 \u0ab9\u0abf\u0a82\u0aae\u0aa4 \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q68",
-      "text": "પ્રભુ શ્રીરામના આદર્શો જીવનને સત્ય, ધર્મ અને પ્રેમના માર્ગે આગળ વધારે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aaa\u0acd\u0ab0\u0aad\u0ac1 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0aa6\u0ab0\u0acd\u0ab6\u0acb \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0ab8\u0aa4\u0acd\u0aaf, \u0aa7\u0ab0\u0acd\u0aae \u0a85\u0aa8\u0ac7 \u0aaa\u0acd\u0ab0\u0ac7\u0aae\u0aa8\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97\u0ac7 \u0a86\u0a97\u0ab3 \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q69",
-      "text": "શ્રીરામનું નામ જીવનની દરેક પરીક્ષામાં આત્મબળ અને વિશ્વાસનું સંબળ બને છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac0 \u0aa6\u0ab0\u0ac7\u0a95 \u0aaa\u0ab0\u0ac0\u0a95\u0acd\u0ab7\u0abe\u0aae\u0abe\u0a82 \u0a86\u0aa4\u0acd\u0aae\u0aac\u0ab3 \u0a85\u0aa8\u0ac7 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8\u0aa8\u0ac1\u0a82 \u0ab8\u0a82\u0aac\u0ab3 \u0aac\u0aa8\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q70",
-      "text": "જેના હૃદયમાં શ્રીરામ વસે છે, તેના જીવનમાં સુખ, શાંતિ અને સંતોષનો સદા પ્રકાશ રહે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7\u0aa8\u0abe \u0ab9\u0ac3\u0aa6\u0aaf\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0ab5\u0ab8\u0ac7 \u0a9b\u0ac7, \u0aa4\u0ac7\u0aa8\u0abe \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0ab8\u0ac1\u0a96, \u0ab6\u0abe\u0a82\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0ab8\u0a82\u0aa4\u0acb\u0ab7\u0aa8\u0acb \u0ab8\u0aa6\u0abe \u0aaa\u0acd\u0ab0\u0a95\u0abe\u0ab6 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q71",
-      "text": "શ્રીરામનું સ્મરણ જીવનમાં ધૈર્ય, વિશ્વાસ અને સદાચારનું બીજ વાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0aa7\u0ac8\u0ab0\u0acd\u0aaf, \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a85\u0aa8\u0ac7 \u0ab8\u0aa6\u0abe\u0a9a\u0abe\u0ab0\u0aa8\u0ac1\u0a82 \u0aac\u0ac0\u0a9c \u0ab5\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q72",
-      "text": "શ્રીરામના આશીર્વાદથી મનને શાંતિ અને જીવનને સાચી દિશા મળે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6\u0aa5\u0ac0 \u0aae\u0aa8\u0aa8\u0ac7 \u0ab6\u0abe\u0a82\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0ab8\u0abe\u0a9a\u0ac0 \u0aa6\u0abf\u0ab6\u0abe \u0aae\u0ab3\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q73",
-      "text": "જે વ્યક્તિ શ્રીરામને હૃદયમાં સ્થાન આપે છે, તેના જીવનમાં આશા ક્યારેય ઓછી થતી નથી.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7 \u0ab5\u0acd\u0aaf\u0a95\u0acd\u0aa4\u0abf \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac7 \u0ab9\u0ac3\u0aa6\u0aaf\u0aae\u0abe\u0a82 \u0ab8\u0acd\u0aa5\u0abe\u0aa8 \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7, \u0aa4\u0ac7\u0aa8\u0abe \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0a86\u0ab6\u0abe \u0a95\u0acd\u0aaf\u0abe\u0ab0\u0ac7\u0aaf \u0a93\u0a9b\u0ac0 \u0aa5\u0aa4\u0ac0 \u0aa8\u0aa5\u0ac0.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q74",
-      "text": "શ્રીરામનું નામ મનને નિર્મળ બનાવે છે અને આત્માને નવી ઊર્જાથી ભરી દે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aae\u0aa8\u0aa8\u0ac7 \u0aa8\u0abf\u0ab0\u0acd\u0aae\u0ab3 \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7 \u0a85\u0aa8\u0ac7 \u0a86\u0aa4\u0acd\u0aae\u0abe\u0aa8\u0ac7 \u0aa8\u0ab5\u0ac0 \u0a8a\u0ab0\u0acd\u0a9c\u0abe\u0aa5\u0ac0 \u0aad\u0ab0\u0ac0 \u0aa6\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q75",
-      "text": "પ્રભુ શ્રીરામના આદર્શો જીવનના દરેક સંબંધને પ્રેમ અને વિશ્વાસથી મજબૂત બનાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aaa\u0acd\u0ab0\u0aad\u0ac1 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0aa6\u0ab0\u0acd\u0ab6\u0acb \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0abe \u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0a82\u0aac\u0a82\u0aa7\u0aa8\u0ac7 \u0aaa\u0acd\u0ab0\u0ac7\u0aae \u0a85\u0aa8\u0ac7 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8\u0aa5\u0ac0 \u0aae\u0a9c\u0aac\u0ac2\u0aa4 \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q76",
-      "text": "દરેક સારા કાર્યની શરૂઆત શ્રીરામના સ્મરણથી થાય તો સફળતા નિશ્ચિત બને છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0abe\u0ab0\u0abe \u0a95\u0abe\u0ab0\u0acd\u0aaf\u0aa8\u0ac0 \u0ab6\u0ab0\u0ac2\u0a86\u0aa4 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0ab8\u0acd\u0aae\u0ab0\u0aa3\u0aa5\u0ac0 \u0aa5\u0abe\u0aaf \u0aa4\u0acb \u0ab8\u0aab\u0ab3\u0aa4\u0abe \u0aa8\u0abf\u0ab6\u0acd\u0a9a\u0abf\u0aa4 \u0aac\u0aa8\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q77",
-      "text": "શ્રીરામની ભક્તિ જીવનમાં વિનમ્રતા, સંયમ અને કર્તવ્યનિષ્ઠા શીખવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0ab5\u0abf\u0aa8\u0aae\u0acd\u0ab0\u0aa4\u0abe, \u0ab8\u0a82\u0aaf\u0aae \u0a85\u0aa8\u0ac7 \u0a95\u0ab0\u0acd\u0aa4\u0ab5\u0acd\u0aaf\u0aa8\u0abf\u0ab7\u0acd\u0aa0\u0abe \u0ab6\u0ac0\u0a96\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q78",
-      "text": "શ્રીરામનું સ્મરણ દરેક નિરાશામાં નવી આશા અને દરેક સંઘર્ષમાં નવી શક્તિ આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aa6\u0ab0\u0ac7\u0a95 \u0aa8\u0abf\u0ab0\u0abe\u0ab6\u0abe\u0aae\u0abe\u0a82 \u0aa8\u0ab5\u0ac0 \u0a86\u0ab6\u0abe \u0a85\u0aa8\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0a82\u0a98\u0ab0\u0acd\u0ab7\u0aae\u0abe\u0a82 \u0aa8\u0ab5\u0ac0 \u0ab6\u0a95\u0acd\u0aa4\u0abf \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q79",
-      "text": "જેના હૃદયમાં શ્રીરામ પ્રત્યે પ્રેમ હોય છે, તેના જીવનમાં હંમેશા આનંદનો પ્રકાશ રહે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7\u0aa8\u0abe \u0ab9\u0ac3\u0aa6\u0aaf\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0aaa\u0acd\u0ab0\u0aa4\u0acd\u0aaf\u0ac7 \u0aaa\u0acd\u0ab0\u0ac7\u0aae \u0ab9\u0acb\u0aaf \u0a9b\u0ac7, \u0aa4\u0ac7\u0aa8\u0abe \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0a86\u0aa8\u0a82\u0aa6\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0a95\u0abe\u0ab6 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q80",
-      "text": "શ્રીરામનું નામ દરેક મુશ્કેલીમાં હિંમત અને દરેક સફળતામાં વિનમ્રતા જાળવી રાખે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aa6\u0ab0\u0ac7\u0a95 \u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2\u0ac0\u0aae\u0abe\u0a82 \u0ab9\u0abf\u0a82\u0aae\u0aa4 \u0a85\u0aa8\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0aab\u0ab3\u0aa4\u0abe\u0aae\u0abe\u0a82 \u0ab5\u0abf\u0aa8\u0aae\u0acd\u0ab0\u0aa4\u0abe \u0a9c\u0abe\u0ab3\u0ab5\u0ac0 \u0ab0\u0abe\u0a96\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q81",
-      "text": "શ્રીરામની કૃપા જીવનના દરેક અંધકારને આશાના પ્રકાશમાં ફેરવી દે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0a95\u0ac3\u0aaa\u0abe \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0abe \u0aa6\u0ab0\u0ac7\u0a95 \u0a85\u0a82\u0aa7\u0a95\u0abe\u0ab0\u0aa8\u0ac7 \u0a86\u0ab6\u0abe\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0a95\u0abe\u0ab6\u0aae\u0abe\u0a82 \u0aab\u0ac7\u0ab0\u0ab5\u0ac0 \u0aa6\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q82",
-      "text": "શ્રીરામનું સ્મરણ હૃદયને શાંતિ અને મનને અડગ આત્મવિશ્વાસ આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0ab9\u0ac3\u0aa6\u0aaf\u0aa8\u0ac7 \u0ab6\u0abe\u0a82\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0aae\u0aa8\u0aa8\u0ac7 \u0a85\u0aa1\u0a97 \u0a86\u0aa4\u0acd\u0aae\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q83",
-      "text": "ધર્મના માર્ગે ચાલનાર માટે શ્રીરામનું જીવન હંમેશા પ્રેરણાનું અખૂટ સ્ત્રોત છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aa7\u0ab0\u0acd\u0aae\u0aa8\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97\u0ac7 \u0a9a\u0abe\u0ab2\u0aa8\u0abe\u0ab0 \u0aae\u0abe\u0a9f\u0ac7 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0a9c\u0ac0\u0ab5\u0aa8 \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0aaa\u0acd\u0ab0\u0ac7\u0ab0\u0aa3\u0abe\u0aa8\u0ac1\u0a82 \u0a85\u0a96\u0ac2\u0a9f \u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0acb\u0aa4 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q84",
-      "text": "શ્રીરામના ચરણોમાં સમર્પિત મનને દુનિયાની કોઈ ચિંતા લાંબા સમય સુધી સ્પર્શી શકતી નથી.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a9a\u0ab0\u0aa3\u0acb\u0aae\u0abe\u0a82 \u0ab8\u0aae\u0ab0\u0acd\u0aaa\u0abf\u0aa4 \u0aae\u0aa8\u0aa8\u0ac7 \u0aa6\u0ac1\u0aa8\u0abf\u0aaf\u0abe\u0aa8\u0ac0 \u0a95\u0acb\u0a88 \u0a9a\u0abf\u0a82\u0aa4\u0abe \u0ab2\u0abe\u0a82\u0aac\u0abe \u0ab8\u0aae\u0aaf \u0ab8\u0ac1\u0aa7\u0ac0 \u0ab8\u0acd\u0aaa\u0ab0\u0acd\u0ab6\u0ac0 \u0ab6\u0a95\u0aa4\u0ac0 \u0aa8\u0aa5\u0ac0.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q85",
-      "text": "શ્રીરામનું નામ દરેક દિવસને શુભ બનાવે છે અને દરેક ક્ષણને પવિત્ર બનાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aa6\u0ab0\u0ac7\u0a95 \u0aa6\u0abf\u0ab5\u0ab8\u0aa8\u0ac7 \u0ab6\u0ac1\u0aad \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7 \u0a85\u0aa8\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0a95\u0acd\u0ab7\u0aa3\u0aa8\u0ac7 \u0aaa\u0ab5\u0abf\u0aa4\u0acd\u0ab0 \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q86",
-      "text": "શ્રીરામના આશીર્વાદથી જીવનમાં ધૈર્ય, સંયમ અને સકારાત્મકતા સતત વધતી રહે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6\u0aa5\u0ac0 \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0aa7\u0ac8\u0ab0\u0acd\u0aaf, \u0ab8\u0a82\u0aaf\u0aae \u0a85\u0aa8\u0ac7 \u0ab8\u0a95\u0abe\u0ab0\u0abe\u0aa4\u0acd\u0aae\u0a95\u0aa4\u0abe \u0ab8\u0aa4\u0aa4 \u0ab5\u0aa7\u0aa4\u0ac0 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q87",
-      "text": "જેના જીવનમાં શ્રીરામનું સ્મરણ હોય છે, ત્યાં નિરાશા કરતાં વિશ્વાસ વધુ મજબૂત રહે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7\u0aa8\u0abe \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0ab9\u0acb\u0aaf \u0a9b\u0ac7, \u0aa4\u0acd\u0aaf\u0abe\u0a82 \u0aa8\u0abf\u0ab0\u0abe\u0ab6\u0abe \u0a95\u0ab0\u0aa4\u0abe\u0a82 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0ab5\u0aa7\u0ac1 \u0aae\u0a9c\u0aac\u0ac2\u0aa4 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q88",
-      "text": "શ્રીરામની ભક્તિ મનને શાંત રાખે છે અને જીવનને સત્યના માર્ગે આગળ ધપાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0aae\u0aa8\u0aa8\u0ac7 \u0ab6\u0abe\u0a82\u0aa4 \u0ab0\u0abe\u0a96\u0ac7 \u0a9b\u0ac7 \u0a85\u0aa8\u0ac7 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0ab8\u0aa4\u0acd\u0aaf\u0aa8\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a97\u0ac7 \u0a86\u0a97\u0ab3 \u0aa7\u0aaa\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q89",
-      "text": "શ્રીરામનું સ્મરણ દરેક સંબંધમાં પ્રેમ, વિશ્વાસ અને આદરની ભાવના વધારે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aa6\u0ab0\u0ac7\u0a95 \u0ab8\u0a82\u0aac\u0a82\u0aa7\u0aae\u0abe\u0a82 \u0aaa\u0acd\u0ab0\u0ac7\u0aae, \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a85\u0aa8\u0ac7 \u0a86\u0aa6\u0ab0\u0aa8\u0ac0 \u0aad\u0abe\u0ab5\u0aa8\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q90",
-      "text": "પ્રભુ શ્રીરામનું નામ જીવનમાં આત્મબળ, શાંતિ અને સફળતાનો સાચો આધાર છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aaa\u0acd\u0ab0\u0aad\u0ac1 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0a9c\u0ac0\u0ab5\u0aa8\u0aae\u0abe\u0a82 \u0a86\u0aa4\u0acd\u0aae\u0aac\u0ab3, \u0ab6\u0abe\u0a82\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0ab8\u0aab\u0ab3\u0aa4\u0abe\u0aa8\u0acb \u0ab8\u0abe\u0a9a\u0acb \u0a86\u0aa7\u0abe\u0ab0 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q91",
-      "text": "શ્રીરામનું સ્મરણ દરેક મુશ્કેલીને સહન કરવાની શક્તિ અને આગળ વધવાની પ્રેરણા આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0aa6\u0ab0\u0ac7\u0a95 \u0aae\u0ac1\u0ab6\u0acd\u0a95\u0ac7\u0ab2\u0ac0\u0aa8\u0ac7 \u0ab8\u0ab9\u0aa8 \u0a95\u0ab0\u0ab5\u0abe\u0aa8\u0ac0 \u0ab6\u0a95\u0acd\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0a86\u0a97\u0ab3 \u0ab5\u0aa7\u0ab5\u0abe\u0aa8\u0ac0 \u0aaa\u0acd\u0ab0\u0ac7\u0ab0\u0aa3\u0abe \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q92",
-      "text": "શ્રીરામના આદર્શો જીવનને માત્ર સફળ નહીં પરંતુ અર્થપૂર્ણ અને પવિત્ર પણ બનાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0aa6\u0ab0\u0acd\u0ab6\u0acb \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0aae\u0abe\u0aa4\u0acd\u0ab0 \u0ab8\u0aab\u0ab3 \u0aa8\u0ab9\u0ac0\u0a82 \u0aaa\u0ab0\u0a82\u0aa4\u0ac1 \u0a85\u0ab0\u0acd\u0aa5\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0a85\u0aa8\u0ac7 \u0aaa\u0ab5\u0abf\u0aa4\u0acd\u0ab0 \u0aaa\u0aa3 \u0aac\u0aa8\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q93",
-      "text": "જે હૃદયમાં શ્રીરામ વસે છે, ત્યાં ભય કરતાં વિશ્વાસ અને પ્રેમનો વિજય થાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0a9c\u0ac7 \u0ab9\u0ac3\u0aa6\u0aaf\u0aae\u0abe\u0a82 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0ab5\u0ab8\u0ac7 \u0a9b\u0ac7, \u0aa4\u0acd\u0aaf\u0abe\u0a82 \u0aad\u0aaf \u0a95\u0ab0\u0aa4\u0abe\u0a82 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a85\u0aa8\u0ac7 \u0aaa\u0acd\u0ab0\u0ac7\u0aae\u0aa8\u0acb \u0ab5\u0abf\u0a9c\u0aaf \u0aa5\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q94",
-      "text": "શ્રીરામનું નામ મનને સ્થિર રાખે છે અને દરેક નિર્ણયમાં યોગ્ય માર્ગદર્શન આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0aae\u0aa8\u0aa8\u0ac7 \u0ab8\u0acd\u0aa5\u0abf\u0ab0 \u0ab0\u0abe\u0a96\u0ac7 \u0a9b\u0ac7 \u0a85\u0aa8\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0aa8\u0abf\u0ab0\u0acd\u0aa3\u0aaf\u0aae\u0abe\u0a82 \u0aaf\u0acb\u0a97\u0acd\u0aaf \u0aae\u0abe\u0ab0\u0acd\u0a97\u0aa6\u0ab0\u0acd\u0ab6\u0aa8 \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q95",
-      "text": "શ્રીરામના આશીર્વાદ સાથે જીવાયેલું જીવન હંમેશા શાંતિ, સંતોષ અને આનંદથી ભરેલું રહે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a86\u0ab6\u0ac0\u0ab0\u0acd\u0ab5\u0abe\u0aa6 \u0ab8\u0abe\u0aa5\u0ac7 \u0a9c\u0ac0\u0ab5\u0abe\u0aaf\u0ac7\u0ab2\u0ac1\u0a82 \u0a9c\u0ac0\u0ab5\u0aa8 \u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0abe \u0ab6\u0abe\u0a82\u0aa4\u0abf, \u0ab8\u0a82\u0aa4\u0acb\u0ab7 \u0a85\u0aa8\u0ac7 \u0a86\u0aa8\u0a82\u0aa6\u0aa5\u0ac0 \u0aad\u0ab0\u0ac7\u0ab2\u0ac1\u0a82 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q96",
-      "text": "શ્રીરામની ભક્તિ આપણને સત્ય બોલવાની, કર્તવ્ય નિભાવવાની અને સૌનો આદર કરવાની પ્રેરણા આપે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac0 \u0aad\u0a95\u0acd\u0aa4\u0abf \u0a86\u0aaa\u0aa3\u0aa8\u0ac7 \u0ab8\u0aa4\u0acd\u0aaf \u0aac\u0acb\u0ab2\u0ab5\u0abe\u0aa8\u0ac0, \u0a95\u0ab0\u0acd\u0aa4\u0ab5\u0acd\u0aaf \u0aa8\u0abf\u0aad\u0abe\u0ab5\u0ab5\u0abe\u0aa8\u0ac0 \u0a85\u0aa8\u0ac7 \u0ab8\u0acc\u0aa8\u0acb \u0a86\u0aa6\u0ab0 \u0a95\u0ab0\u0ab5\u0abe\u0aa8\u0ac0 \u0aaa\u0acd\u0ab0\u0ac7\u0ab0\u0aa3\u0abe \u0a86\u0aaa\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q97",
-      "text": "શ્રીરામનું સ્મરણ જીવનની દરેક પરીક્ષામાં હિંમત, ધૈર્ય અને આત્મવિશ્વાસ જાળવી રાખે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aae\u0ab0\u0aa3 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac0 \u0aa6\u0ab0\u0ac7\u0a95 \u0aaa\u0ab0\u0ac0\u0a95\u0acd\u0ab7\u0abe\u0aae\u0abe\u0a82 \u0ab9\u0abf\u0a82\u0aae\u0aa4, \u0aa7\u0ac8\u0ab0\u0acd\u0aaf \u0a85\u0aa8\u0ac7 \u0a86\u0aa4\u0acd\u0aae\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a9c\u0abe\u0ab3\u0ab5\u0ac0 \u0ab0\u0abe\u0a96\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q98",
-      "text": "પ્રભુ શ્રીરામ પરનો અડગ વિશ્વાસ જીવનને સકારાત્મક વિચારો અને સારા કર્મોથી ભરી દે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0aaa\u0acd\u0ab0\u0aad\u0ac1 \u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae \u0aaa\u0ab0\u0aa8\u0acb \u0a85\u0aa1\u0a97 \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac7 \u0ab8\u0a95\u0abe\u0ab0\u0abe\u0aa4\u0acd\u0aae\u0a95 \u0ab5\u0abf\u0a9a\u0abe\u0ab0\u0acb \u0a85\u0aa8\u0ac7 \u0ab8\u0abe\u0ab0\u0abe \u0a95\u0ab0\u0acd\u0aae\u0acb\u0aa5\u0ac0 \u0aad\u0ab0\u0ac0 \u0aa6\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q99",
-      "text": "શ્રીરામના ચરણોમાં સમર્પિત હૃદયને દરેક પરિસ્થિતિમાં શાંતિ અને સંતોષનો અનુભવ થાય છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0abe \u0a9a\u0ab0\u0aa3\u0acb\u0aae\u0abe\u0a82 \u0ab8\u0aae\u0ab0\u0acd\u0aaa\u0abf\u0aa4 \u0ab9\u0ac3\u0aa6\u0aaf\u0aa8\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0aaa\u0ab0\u0abf\u0ab8\u0acd\u0aa5\u0abf\u0aa4\u0abf\u0aae\u0abe\u0a82 \u0ab6\u0abe\u0a82\u0aa4\u0abf \u0a85\u0aa8\u0ac7 \u0ab8\u0a82\u0aa4\u0acb\u0ab7\u0aa8\u0acb \u0a85\u0aa8\u0ac1\u0aad\u0ab5 \u0aa5\u0abe\u0aaf \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q100",
-      "text": "શ્રીરામનું નામ જીવનનો એવો દિવ્ય આધાર છે, જે દરેક ક્ષણે આશા, વિશ્વાસ અને આનંદની અનુભૂતિ કરાવે છે.",
-      "author": "અજ્ઞાત",
+      "text": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab0\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0acb \u0a8f\u0ab5\u0acb \u0aa6\u0abf\u0ab5\u0acd\u0aaf \u0a86\u0aa7\u0abe\u0ab0 \u0a9b\u0ac7, \u0a9c\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0a95\u0acd\u0ab7\u0aa3\u0ac7 \u0a86\u0ab6\u0abe, \u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0abe\u0ab8 \u0a85\u0aa8\u0ac7 \u0a86\u0aa8\u0a82\u0aa6\u0aa8\u0ac0 \u0a85\u0aa8\u0ac1\u0aad\u0ac2\u0aa4\u0abf \u0a95\u0ab0\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7.",
+      "author": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4",
       "category": "Suvichar",
       "isPremium": true
     }
@@ -1638,701 +1638,701 @@
   "quotes_hi": [
     {
       "id": "q1",
-      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
-      "author": "गोस्वामी तुलसीदास",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u0915\u0947\u0935\u0932 \u090f\u0915 \u0936\u092c\u094d\u0926 \u0928\u0939\u0940\u0902 \u0939\u0948, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0938\u0939\u0940 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u0932\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0905\u091f\u0942\u091f \u0936\u0915\u094d\u0924\u093f \u0939\u0948\u0964",
+      "author": "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q2",
-      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092d\u092f \u0928\u0939\u0940\u0902 \u092c\u0932\u094d\u0915\u093f \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u0936\u093e\u0902\u0924\u093f \u0915\u093e \u0935\u093e\u0938 \u0939\u094b\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q3",
-      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
-      "author": "वाल्मीकि",
+      "text": "\u092e\u0930\u094d\u092f\u093e\u0926\u093e, \u0938\u0924\u094d\u092f \u0914\u0930 \u0927\u0930\u094d\u092e \u0915\u093e \u091c\u0940\u0935\u0902\u0924 \u0938\u094d\u0935\u0930\u0942\u092a \u0939\u0948\u0902 \u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q4",
-      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
-      "author": "स्वामी विवेकानंद",
+      "text": "\u0939\u0930 \u0915\u0920\u093f\u0928\u093e\u0908 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092a\u0930 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0906\u092a\u0915\u094b \u0928\u0908 \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u0938\u093e\u0939\u0938 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q5",
-      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
-      "author": "वाल्मीकि",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0938\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u091c\u094b \u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0940 \u0905\u0902\u0924\u0924\u0903 \u0939\u092e\u0947\u0936\u093e \u0935\u093f\u091c\u092f \u0939\u094b\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q6",
-      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
-      "author": "संत कबीर",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u0939\u0943\u0926\u092f \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092c\u0938\u0924\u0947 \u0939\u0948\u0902, \u0909\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u092a\u094d\u0930\u0947\u092e, \u0936\u093e\u0902\u0924\u093f \u0914\u0930 \u0938\u0941\u0916 \u0905\u092a\u0928\u0947 \u0906\u092a \u0906 \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0915\u092c\u0940\u0930",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q7",
-      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u093e\u0924\u094d\u0930 \u092d\u0915\u094d\u0924\u093f \u0928\u0939\u0940\u0902, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0926\u093f\u0935\u094d\u092f \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q8",
-      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
-      "author": "मोरारी बापू",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0915\u0947 \u0938\u093e\u0925 \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0930 \u0915\u093e\u0930\u094d\u092f \u0938\u092b\u0932\u0924\u093e \u0915\u0940 \u0913\u0930 \u092c\u0922\u093c\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u092e\u094b\u0930\u093e\u0930\u0940 \u092c\u093e\u092a\u0942",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q9",
-      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u0938\u0902\u0915\u091f \u091a\u093e\u0939\u0947 \u0915\u093f\u0924\u0928\u093e \u092d\u0940 \u092c\u0921\u093c\u093e \u0939\u094b, \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092e\u0928 \u0915\u094b \u0905\u0921\u093f\u0917 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0938\u0947 \u092d\u0930 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q10",
-      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
-      "author": "वाल्मीकि",
+      "text": "\u0938\u0924\u094d\u092f \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u091c\u0940\u0935\u0928 \u0938\u0947 \u092c\u0921\u093c\u0940 \u0915\u094b\u0908 \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0928\u0939\u0940\u0902 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q11",
-      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u0928 \u0915\u094b \u0936\u093e\u0902\u0924\u093f, \u0906\u0924\u094d\u092e\u093e \u0915\u094b \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u091c\u0940\u0935\u0928 \u0915\u094b \u0928\u0908 \u0926\u093f\u0936\u093e \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q12",
-      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
-      "author": "अज्ञात",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0939\u094b\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0947 \u0932\u093f\u090f \u0939\u0930 \u092e\u0941\u0936\u094d\u0915\u093f\u0932 \u0906\u0938\u093e\u0928 \u0939\u094b \u091c\u093e\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q13",
-      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u093e \u0906\u0927\u093e\u0930 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q14",
-      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
-      "author": "अज्ञात",
+      "text": "\u0938\u091a\u094d\u091a\u0947 \u092e\u0928 \u0938\u0947 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0906\u0936\u093e \u0914\u0930 \u0906\u0924\u094d\u092e\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u091c\u0917\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q15",
-      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
-      "author": "अज्ञात",
+      "text": "\u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0926\u0930\u094d\u0936\u094b\u0902 \u0915\u094b \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0909\u0924\u093e\u0930\u0928\u093e \u0906\u0935\u0936\u094d\u092f\u0915 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q16",
-      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u094d\u0930\u092f \u0932\u0947\u0928\u0947 \u0935\u093e\u0932\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u092d\u0940 \u0905\u0915\u0947\u0932\u093e \u092e\u0939\u0938\u0942\u0938 \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q17",
-      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
-      "author": "अज्ञात",
+      "text": "\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u0938\u093e\u0925 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q18",
-      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0938\u0947 \u0905\u0938\u0902\u092d\u0935 \u0932\u0917\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u093e\u0930\u094d\u092f \u092d\u0940 \u0906\u0938\u093e\u0928 \u0939\u094b \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q19",
-      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0939\u092e\u0947\u0902 \u0938\u0924\u094d\u092f, \u0927\u0930\u094d\u092e \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u093e \u092e\u0939\u0924\u094d\u0935 \u0938\u092e\u091d\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q20",
-      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
-      "author": "अज्ञात",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u092a\u094d\u0930\u0924\u093f \u092a\u094d\u0930\u0947\u092e \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092e\u0928 \u092e\u0947\u0902 \u0915\u092d\u0940 \u0905\u0902\u0927\u0915\u093e\u0930 \u0928\u0939\u0940\u0902 \u0930\u0939\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q21",
-      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
-      "author": "गोस्वामी तुलसीदास",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u0915\u0947\u0935\u0932 \u090f\u0915 \u0936\u092c\u094d\u0926 \u0928\u0939\u0940\u0902 \u0939\u0948, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0938\u0939\u0940 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u0932\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0905\u091f\u0942\u091f \u0936\u0915\u094d\u0924\u093f \u0939\u0948\u0964",
+      "author": "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q22",
-      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092d\u092f \u0928\u0939\u0940\u0902 \u092c\u0932\u094d\u0915\u093f \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u0936\u093e\u0902\u0924\u093f \u0915\u093e \u0935\u093e\u0938 \u0939\u094b\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q23",
-      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
-      "author": "वाल्मीकि",
+      "text": "\u092e\u0930\u094d\u092f\u093e\u0926\u093e, \u0938\u0924\u094d\u092f \u0914\u0930 \u0927\u0930\u094d\u092e \u0915\u093e \u091c\u0940\u0935\u0902\u0924 \u0938\u094d\u0935\u0930\u0942\u092a \u0939\u0948\u0902 \u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q24",
-      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
-      "author": "स्वामी विवेकानंद",
+      "text": "\u0939\u0930 \u0915\u0920\u093f\u0928\u093e\u0908 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092a\u0930 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0906\u092a\u0915\u094b \u0928\u0908 \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u0938\u093e\u0939\u0938 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q25",
-      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
-      "author": "वाल्मीकि",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0938\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u091c\u094b \u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0940 \u0905\u0902\u0924\u0924\u0903 \u0939\u092e\u0947\u0936\u093e \u0935\u093f\u091c\u092f \u0939\u094b\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q26",
-      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
-      "author": "संत कबीर",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u0939\u0943\u0926\u092f \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092c\u0938\u0924\u0947 \u0939\u0948\u0902, \u0909\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u092a\u094d\u0930\u0947\u092e, \u0936\u093e\u0902\u0924\u093f \u0914\u0930 \u0938\u0941\u0916 \u0905\u092a\u0928\u0947 \u0906\u092a \u0906 \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0915\u092c\u0940\u0930",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q27",
-      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u093e\u0924\u094d\u0930 \u092d\u0915\u094d\u0924\u093f \u0928\u0939\u0940\u0902, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0926\u093f\u0935\u094d\u092f \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q28",
-      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
-      "author": "मोरारी बापू",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0915\u0947 \u0938\u093e\u0925 \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0930 \u0915\u093e\u0930\u094d\u092f \u0938\u092b\u0932\u0924\u093e \u0915\u0940 \u0913\u0930 \u092c\u0922\u093c\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u092e\u094b\u0930\u093e\u0930\u0940 \u092c\u093e\u092a\u0942",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q29",
-      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u0938\u0902\u0915\u091f \u091a\u093e\u0939\u0947 \u0915\u093f\u0924\u0928\u093e \u092d\u0940 \u092c\u0921\u093c\u093e \u0939\u094b, \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092e\u0928 \u0915\u094b \u0905\u0921\u093f\u0917 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0938\u0947 \u092d\u0930 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q30",
-      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
-      "author": "वाल्मीकि",
+      "text": "\u0938\u0924\u094d\u092f \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u091c\u0940\u0935\u0928 \u0938\u0947 \u092c\u0921\u093c\u0940 \u0915\u094b\u0908 \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0928\u0939\u0940\u0902 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q31",
-      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u0928 \u0915\u094b \u0936\u093e\u0902\u0924\u093f, \u0906\u0924\u094d\u092e\u093e \u0915\u094b \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u091c\u0940\u0935\u0928 \u0915\u094b \u0928\u0908 \u0926\u093f\u0936\u093e \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q32",
-      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
-      "author": "अज्ञात",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0939\u094b\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0947 \u0932\u093f\u090f \u0939\u0930 \u092e\u0941\u0936\u094d\u0915\u093f\u0932 \u0906\u0938\u093e\u0928 \u0939\u094b \u091c\u093e\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q33",
-      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u093e \u0906\u0927\u093e\u0930 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q34",
-      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
-      "author": "अज्ञात",
+      "text": "\u0938\u091a\u094d\u091a\u0947 \u092e\u0928 \u0938\u0947 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0906\u0936\u093e \u0914\u0930 \u0906\u0924\u094d\u092e\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u091c\u0917\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q35",
-      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
-      "author": "अज्ञात",
+      "text": "\u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0926\u0930\u094d\u0936\u094b\u0902 \u0915\u094b \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0909\u0924\u093e\u0930\u0928\u093e \u0906\u0935\u0936\u094d\u092f\u0915 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q36",
-      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u094d\u0930\u092f \u0932\u0947\u0928\u0947 \u0935\u093e\u0932\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u092d\u0940 \u0905\u0915\u0947\u0932\u093e \u092e\u0939\u0938\u0942\u0938 \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q37",
-      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
-      "author": "अज्ञात",
+      "text": "\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u0938\u093e\u0925 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q38",
-      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0938\u0947 \u0905\u0938\u0902\u092d\u0935 \u0932\u0917\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u093e\u0930\u094d\u092f \u092d\u0940 \u0906\u0938\u093e\u0928 \u0939\u094b \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q39",
-      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0939\u092e\u0947\u0902 \u0938\u0924\u094d\u092f, \u0927\u0930\u094d\u092e \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u093e \u092e\u0939\u0924\u094d\u0935 \u0938\u092e\u091d\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q40",
-      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
-      "author": "अज्ञात",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u092a\u094d\u0930\u0924\u093f \u092a\u094d\u0930\u0947\u092e \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092e\u0928 \u092e\u0947\u0902 \u0915\u092d\u0940 \u0905\u0902\u0927\u0915\u093e\u0930 \u0928\u0939\u0940\u0902 \u0930\u0939\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q41",
-      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
-      "author": "गोस्वामी तुलसीदास",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u0915\u0947\u0935\u0932 \u090f\u0915 \u0936\u092c\u094d\u0926 \u0928\u0939\u0940\u0902 \u0939\u0948, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0938\u0939\u0940 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u0932\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0905\u091f\u0942\u091f \u0936\u0915\u094d\u0924\u093f \u0939\u0948\u0964",
+      "author": "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q42",
-      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092d\u092f \u0928\u0939\u0940\u0902 \u092c\u0932\u094d\u0915\u093f \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u0936\u093e\u0902\u0924\u093f \u0915\u093e \u0935\u093e\u0938 \u0939\u094b\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q43",
-      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
-      "author": "वाल्मीकि",
+      "text": "\u092e\u0930\u094d\u092f\u093e\u0926\u093e, \u0938\u0924\u094d\u092f \u0914\u0930 \u0927\u0930\u094d\u092e \u0915\u093e \u091c\u0940\u0935\u0902\u0924 \u0938\u094d\u0935\u0930\u0942\u092a \u0939\u0948\u0902 \u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q44",
-      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
-      "author": "स्वामी विवेकानंद",
+      "text": "\u0939\u0930 \u0915\u0920\u093f\u0928\u093e\u0908 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092a\u0930 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0906\u092a\u0915\u094b \u0928\u0908 \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u0938\u093e\u0939\u0938 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q45",
-      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
-      "author": "वाल्मीकि",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0938\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u091c\u094b \u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0940 \u0905\u0902\u0924\u0924\u0903 \u0939\u092e\u0947\u0936\u093e \u0935\u093f\u091c\u092f \u0939\u094b\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q46",
-      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
-      "author": "संत कबीर",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u0939\u0943\u0926\u092f \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092c\u0938\u0924\u0947 \u0939\u0948\u0902, \u0909\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u092a\u094d\u0930\u0947\u092e, \u0936\u093e\u0902\u0924\u093f \u0914\u0930 \u0938\u0941\u0916 \u0905\u092a\u0928\u0947 \u0906\u092a \u0906 \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0915\u092c\u0940\u0930",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q47",
-      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u093e\u0924\u094d\u0930 \u092d\u0915\u094d\u0924\u093f \u0928\u0939\u0940\u0902, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0926\u093f\u0935\u094d\u092f \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q48",
-      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
-      "author": "मोरारी बापू",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0915\u0947 \u0938\u093e\u0925 \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0930 \u0915\u093e\u0930\u094d\u092f \u0938\u092b\u0932\u0924\u093e \u0915\u0940 \u0913\u0930 \u092c\u0922\u093c\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u092e\u094b\u0930\u093e\u0930\u0940 \u092c\u093e\u092a\u0942",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q49",
-      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u0938\u0902\u0915\u091f \u091a\u093e\u0939\u0947 \u0915\u093f\u0924\u0928\u093e \u092d\u0940 \u092c\u0921\u093c\u093e \u0939\u094b, \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092e\u0928 \u0915\u094b \u0905\u0921\u093f\u0917 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0938\u0947 \u092d\u0930 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q50",
-      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
-      "author": "वाल्मीकि",
+      "text": "\u0938\u0924\u094d\u092f \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u091c\u0940\u0935\u0928 \u0938\u0947 \u092c\u0921\u093c\u0940 \u0915\u094b\u0908 \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0928\u0939\u0940\u0902 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q51",
-      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u0928 \u0915\u094b \u0936\u093e\u0902\u0924\u093f, \u0906\u0924\u094d\u092e\u093e \u0915\u094b \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u091c\u0940\u0935\u0928 \u0915\u094b \u0928\u0908 \u0926\u093f\u0936\u093e \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q52",
-      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
-      "author": "अज्ञात",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0939\u094b\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0947 \u0932\u093f\u090f \u0939\u0930 \u092e\u0941\u0936\u094d\u0915\u093f\u0932 \u0906\u0938\u093e\u0928 \u0939\u094b \u091c\u093e\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q53",
-      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u093e \u0906\u0927\u093e\u0930 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q54",
-      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
-      "author": "अज्ञात",
+      "text": "\u0938\u091a\u094d\u091a\u0947 \u092e\u0928 \u0938\u0947 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0906\u0936\u093e \u0914\u0930 \u0906\u0924\u094d\u092e\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u091c\u0917\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q55",
-      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
-      "author": "अज्ञात",
+      "text": "\u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0926\u0930\u094d\u0936\u094b\u0902 \u0915\u094b \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0909\u0924\u093e\u0930\u0928\u093e \u0906\u0935\u0936\u094d\u092f\u0915 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q56",
-      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u094d\u0930\u092f \u0932\u0947\u0928\u0947 \u0935\u093e\u0932\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u092d\u0940 \u0905\u0915\u0947\u0932\u093e \u092e\u0939\u0938\u0942\u0938 \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q57",
-      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
-      "author": "अज्ञात",
+      "text": "\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u0938\u093e\u0925 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q58",
-      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0938\u0947 \u0905\u0938\u0902\u092d\u0935 \u0932\u0917\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u093e\u0930\u094d\u092f \u092d\u0940 \u0906\u0938\u093e\u0928 \u0939\u094b \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q59",
-      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0939\u092e\u0947\u0902 \u0938\u0924\u094d\u092f, \u0927\u0930\u094d\u092e \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u093e \u092e\u0939\u0924\u094d\u0935 \u0938\u092e\u091d\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q60",
-      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
-      "author": "अज्ञात",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u092a\u094d\u0930\u0924\u093f \u092a\u094d\u0930\u0947\u092e \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092e\u0928 \u092e\u0947\u0902 \u0915\u092d\u0940 \u0905\u0902\u0927\u0915\u093e\u0930 \u0928\u0939\u0940\u0902 \u0930\u0939\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q61",
-      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
-      "author": "गोस्वामी तुलसीदास",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u0915\u0947\u0935\u0932 \u090f\u0915 \u0936\u092c\u094d\u0926 \u0928\u0939\u0940\u0902 \u0939\u0948, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0938\u0939\u0940 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u0932\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0905\u091f\u0942\u091f \u0936\u0915\u094d\u0924\u093f \u0939\u0948\u0964",
+      "author": "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q62",
-      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092d\u092f \u0928\u0939\u0940\u0902 \u092c\u0932\u094d\u0915\u093f \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u0936\u093e\u0902\u0924\u093f \u0915\u093e \u0935\u093e\u0938 \u0939\u094b\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q63",
-      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
-      "author": "वाल्मीकि",
+      "text": "\u092e\u0930\u094d\u092f\u093e\u0926\u093e, \u0938\u0924\u094d\u092f \u0914\u0930 \u0927\u0930\u094d\u092e \u0915\u093e \u091c\u0940\u0935\u0902\u0924 \u0938\u094d\u0935\u0930\u0942\u092a \u0939\u0948\u0902 \u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q64",
-      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
-      "author": "स्वामी विवेकानंद",
+      "text": "\u0939\u0930 \u0915\u0920\u093f\u0928\u093e\u0908 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092a\u0930 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0906\u092a\u0915\u094b \u0928\u0908 \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u0938\u093e\u0939\u0938 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q65",
-      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
-      "author": "वाल्मीकि",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0938\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u091c\u094b \u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0940 \u0905\u0902\u0924\u0924\u0903 \u0939\u092e\u0947\u0936\u093e \u0935\u093f\u091c\u092f \u0939\u094b\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q66",
-      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
-      "author": "संत कबीर",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u0939\u0943\u0926\u092f \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092c\u0938\u0924\u0947 \u0939\u0948\u0902, \u0909\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u092a\u094d\u0930\u0947\u092e, \u0936\u093e\u0902\u0924\u093f \u0914\u0930 \u0938\u0941\u0916 \u0905\u092a\u0928\u0947 \u0906\u092a \u0906 \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0915\u092c\u0940\u0930",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q67",
-      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u093e\u0924\u094d\u0930 \u092d\u0915\u094d\u0924\u093f \u0928\u0939\u0940\u0902, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0926\u093f\u0935\u094d\u092f \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q68",
-      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
-      "author": "मोरारी बापू",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0915\u0947 \u0938\u093e\u0925 \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0930 \u0915\u093e\u0930\u094d\u092f \u0938\u092b\u0932\u0924\u093e \u0915\u0940 \u0913\u0930 \u092c\u0922\u093c\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u092e\u094b\u0930\u093e\u0930\u0940 \u092c\u093e\u092a\u0942",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q69",
-      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u0938\u0902\u0915\u091f \u091a\u093e\u0939\u0947 \u0915\u093f\u0924\u0928\u093e \u092d\u0940 \u092c\u0921\u093c\u093e \u0939\u094b, \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092e\u0928 \u0915\u094b \u0905\u0921\u093f\u0917 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0938\u0947 \u092d\u0930 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q70",
-      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
-      "author": "वाल्मीकि",
+      "text": "\u0938\u0924\u094d\u092f \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u091c\u0940\u0935\u0928 \u0938\u0947 \u092c\u0921\u093c\u0940 \u0915\u094b\u0908 \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0928\u0939\u0940\u0902 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q71",
-      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u0928 \u0915\u094b \u0936\u093e\u0902\u0924\u093f, \u0906\u0924\u094d\u092e\u093e \u0915\u094b \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u091c\u0940\u0935\u0928 \u0915\u094b \u0928\u0908 \u0926\u093f\u0936\u093e \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q72",
-      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
-      "author": "अज्ञात",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0939\u094b\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0947 \u0932\u093f\u090f \u0939\u0930 \u092e\u0941\u0936\u094d\u0915\u093f\u0932 \u0906\u0938\u093e\u0928 \u0939\u094b \u091c\u093e\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q73",
-      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u093e \u0906\u0927\u093e\u0930 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q74",
-      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
-      "author": "अज्ञात",
+      "text": "\u0938\u091a\u094d\u091a\u0947 \u092e\u0928 \u0938\u0947 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0906\u0936\u093e \u0914\u0930 \u0906\u0924\u094d\u092e\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u091c\u0917\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q75",
-      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
-      "author": "अज्ञात",
+      "text": "\u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0926\u0930\u094d\u0936\u094b\u0902 \u0915\u094b \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0909\u0924\u093e\u0930\u0928\u093e \u0906\u0935\u0936\u094d\u092f\u0915 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q76",
-      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u094d\u0930\u092f \u0932\u0947\u0928\u0947 \u0935\u093e\u0932\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u092d\u0940 \u0905\u0915\u0947\u0932\u093e \u092e\u0939\u0938\u0942\u0938 \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q77",
-      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
-      "author": "अज्ञात",
+      "text": "\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u0938\u093e\u0925 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q78",
-      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0938\u0947 \u0905\u0938\u0902\u092d\u0935 \u0932\u0917\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u093e\u0930\u094d\u092f \u092d\u0940 \u0906\u0938\u093e\u0928 \u0939\u094b \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q79",
-      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0939\u092e\u0947\u0902 \u0938\u0924\u094d\u092f, \u0927\u0930\u094d\u092e \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u093e \u092e\u0939\u0924\u094d\u0935 \u0938\u092e\u091d\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q80",
-      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
-      "author": "अज्ञात",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u092a\u094d\u0930\u0924\u093f \u092a\u094d\u0930\u0947\u092e \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092e\u0928 \u092e\u0947\u0902 \u0915\u092d\u0940 \u0905\u0902\u0927\u0915\u093e\u0930 \u0928\u0939\u0940\u0902 \u0930\u0939\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q81",
-      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
-      "author": "गोस्वामी तुलसीदास",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u0915\u0947\u0935\u0932 \u090f\u0915 \u0936\u092c\u094d\u0926 \u0928\u0939\u0940\u0902 \u0939\u0948, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0938\u0939\u0940 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u0932\u0947 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0905\u091f\u0942\u091f \u0936\u0915\u094d\u0924\u093f \u0939\u0948\u0964",
+      "author": "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q82",
-      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092d\u092f \u0928\u0939\u0940\u0902 \u092c\u0932\u094d\u0915\u093f \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u0936\u093e\u0902\u0924\u093f \u0915\u093e \u0935\u093e\u0938 \u0939\u094b\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q83",
-      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
-      "author": "वाल्मीकि",
+      "text": "\u092e\u0930\u094d\u092f\u093e\u0926\u093e, \u0938\u0924\u094d\u092f \u0914\u0930 \u0927\u0930\u094d\u092e \u0915\u093e \u091c\u0940\u0935\u0902\u0924 \u0938\u094d\u0935\u0930\u0942\u092a \u0939\u0948\u0902 \u092a\u094d\u0930\u092d\u0941 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q84",
-      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
-      "author": "स्वामी विवेकानंद",
+      "text": "\u0939\u0930 \u0915\u0920\u093f\u0928\u093e\u0908 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092a\u0930 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0906\u092a\u0915\u094b \u0928\u0908 \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u0938\u093e\u0939\u0938 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q85",
-      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
-      "author": "वाल्मीकि",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0938\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u0915\u093f \u091c\u094b \u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0940 \u0905\u0902\u0924\u0924\u0903 \u0939\u092e\u0947\u0936\u093e \u0935\u093f\u091c\u092f \u0939\u094b\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q86",
-      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
-      "author": "संत कबीर",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u0939\u0943\u0926\u092f \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u092c\u0938\u0924\u0947 \u0939\u0948\u0902, \u0909\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u092a\u094d\u0930\u0947\u092e, \u0936\u093e\u0902\u0924\u093f \u0914\u0930 \u0938\u0941\u0916 \u0905\u092a\u0928\u0947 \u0906\u092a \u0906 \u091c\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0915\u092c\u0940\u0930",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q87",
-      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u093e\u0924\u094d\u0930 \u092d\u0915\u094d\u0924\u093f \u0928\u0939\u0940\u0902, \u092f\u0939 \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0926\u093f\u0935\u094d\u092f \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q88",
-      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
-      "author": "मोरारी बापू",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0915\u0947 \u0938\u093e\u0925 \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0930 \u0915\u093e\u0930\u094d\u092f \u0938\u092b\u0932\u0924\u093e \u0915\u0940 \u0913\u0930 \u092c\u0922\u093c\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u092e\u094b\u0930\u093e\u0930\u0940 \u092c\u093e\u092a\u0942",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q89",
-      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
-      "author": "संत तुलसीदास",
+      "text": "\u0938\u0902\u0915\u091f \u091a\u093e\u0939\u0947 \u0915\u093f\u0924\u0928\u093e \u092d\u0940 \u092c\u0921\u093c\u093e \u0939\u094b, \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092e\u0928 \u0915\u094b \u0905\u0921\u093f\u0917 \u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0938\u0947 \u092d\u0930 \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0938\u0902\u0924 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q90",
-      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
-      "author": "वाल्मीकि",
+      "text": "\u0938\u0924\u094d\u092f \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u091c\u0940\u0935\u0928 \u0938\u0947 \u092c\u0921\u093c\u0940 \u0915\u094b\u0908 \u092a\u094d\u0930\u0947\u0930\u0923\u093e \u0928\u0939\u0940\u0902 \u0939\u0948\u0964",
+      "author": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f",
       "category": "Suvichar",
       "isPremium": true
     },
     {
       "id": "q91",
-      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0938\u094d\u092e\u0930\u0923 \u092e\u0928 \u0915\u094b \u0936\u093e\u0902\u0924\u093f, \u0906\u0924\u094d\u092e\u093e \u0915\u094b \u0936\u0915\u094d\u0924\u093f \u0914\u0930 \u091c\u0940\u0935\u0928 \u0915\u094b \u0928\u0908 \u0926\u093f\u0936\u093e \u0926\u0947\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q92",
-      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
-      "author": "अज्ञात",
+      "text": "\u091c\u093f\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0939\u094b\u0924\u093e \u0939\u0948, \u0909\u0938\u0915\u0947 \u0932\u093f\u090f \u0939\u0930 \u092e\u0941\u0936\u094d\u0915\u093f\u0932 \u0906\u0938\u093e\u0928 \u0939\u094b \u091c\u093e\u0924\u0940 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q93",
-      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u093e \u0906\u0927\u093e\u0930 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q94",
-      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
-      "author": "अज्ञात",
+      "text": "\u0938\u091a\u094d\u091a\u0947 \u092e\u0928 \u0938\u0947 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0906\u0936\u093e \u0914\u0930 \u0906\u0924\u094d\u092e\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u091c\u0917\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q95",
-      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
-      "author": "अज्ञात",
+      "text": "\u0927\u0930\u094d\u092e \u0915\u0947 \u092e\u093e\u0930\u094d\u0917 \u092a\u0930 \u091a\u0932\u0928\u093e \u0939\u094b \u0924\u094b \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0926\u0930\u094d\u0936\u094b\u0902 \u0915\u094b \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0909\u0924\u093e\u0930\u0928\u093e \u0906\u0935\u0936\u094d\u092f\u0915 \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q96",
-      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0906\u0936\u094d\u0930\u092f \u0932\u0947\u0928\u0947 \u0935\u093e\u0932\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u092d\u0940 \u0905\u0915\u0947\u0932\u093e \u092e\u0939\u0938\u0942\u0938 \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q97",
-      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
-      "author": "अज्ञात",
+      "text": "\u0935\u093f\u0936\u094d\u0935\u093e\u0938 \u0914\u0930 \u092d\u0915\u094d\u0924\u093f \u0915\u0947 \u0938\u093e\u0925 \u0932\u093f\u092f\u093e \u0917\u092f\u093e \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u0928\u093e\u092e \u091c\u0940\u0935\u0928 \u0915\u094b \u0909\u091c\u094d\u091c\u094d\u0935\u0932 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q98",
-      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u0906\u0936\u0940\u0930\u094d\u0935\u093e\u0926 \u0938\u0947 \u0905\u0938\u0902\u092d\u0935 \u0932\u0917\u0928\u0947 \u0935\u093e\u0932\u0947 \u0915\u093e\u0930\u094d\u092f \u092d\u0940 \u0906\u0938\u093e\u0928 \u0939\u094b \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q99",
-      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
-      "author": "अज्ञात",
+      "text": "\u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u093e \u091c\u0940\u0935\u0928 \u0939\u092e\u0947\u0902 \u0938\u0924\u094d\u092f, \u0927\u0930\u094d\u092e \u0914\u0930 \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0915\u093e \u092e\u0939\u0924\u094d\u0935 \u0938\u092e\u091d\u093e\u0924\u093e \u0939\u0948\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": false
     },
     {
       "id": "q100",
-      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
-      "author": "अज्ञात",
+      "text": "\u091c\u0939\u093e\u0901 \u0936\u094d\u0930\u0940 \u0930\u093e\u092e \u0915\u0947 \u092a\u094d\u0930\u0924\u093f \u092a\u094d\u0930\u0947\u092e \u0939\u094b\u0924\u093e \u0939\u0948, \u0935\u0939\u093e\u0901 \u092e\u0928 \u092e\u0947\u0902 \u0915\u092d\u0940 \u0905\u0902\u0927\u0915\u093e\u0930 \u0928\u0939\u0940\u0902 \u0930\u0939\u0924\u093e\u0964",
+      "author": "\u0905\u091c\u094d\u091e\u093e\u0924",
       "category": "Suvichar",
       "isPremium": true
     }
