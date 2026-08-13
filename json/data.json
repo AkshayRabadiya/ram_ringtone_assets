@@ -1,0 +1,2340 @@
+{
+  "wallpapers": [
+    {
+      "id": "w1",
+      "title": "Ram Wallpaper 1",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-1.jpg",
+      "category": "Ram",
+      "isPremium": false
+    },
+    {
+      "id": "w2",
+      "title": "Ram Wallpaper 2",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-2.jpg",
+      "category": "Ram",
+      "isPremium": true
+    },
+    {
+      "id": "w3",
+      "title": "Ram Wallpaper 3",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-3.jpg",
+      "category": "Ram",
+      "isPremium": false
+    },
+    {
+      "id": "w4",
+      "title": "Ram Wallpaper 4",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-4.jpg",
+      "category": "Ram",
+      "isPremium": true
+    },
+    {
+      "id": "w5",
+      "title": "Ram Wallpaper 5",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-5.jpg",
+      "category": "Ram",
+      "isPremium": false
+    },
+    {
+      "id": "w6",
+      "title": "Ram Wallpaper 6",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-6.jpg",
+      "category": "Ram",
+      "isPremium": false
+    },
+    {
+      "id": "w7",
+      "title": "Ram Wallpaper 7",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-7.jpg",
+      "category": "Ram",
+      "isPremium": true
+    },
+    {
+      "id": "w8",
+      "title": "Ram Wallpaper 8",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-8.jpg",
+      "category": "Ram",
+      "isPremium": false
+    },
+    {
+      "id": "w9",
+      "title": "Ram Wallpaper 9",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-9.jpg",
+      "category": "Ram",
+      "isPremium": false
+    },
+    {
+      "id": "w10",
+      "title": "Ram Wallpaper 10",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-10.jpg",
+      "category": "Ram",
+      "isPremium": true
+    },
+    {
+      "id": "w11",
+      "title": "Ram Wallpaper 11",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-11.jpg",
+      "category": "Ram",
+      "isPremium": false
+    },
+    {
+      "id": "w12",
+      "title": "Ram Wallpaper 12",
+      "imageUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/wallpaper/ram-wallpaper-12.jpg",
+      "category": "Ram",
+      "isPremium": false
+    }
+  ],
+  "ringtones": [
+    {
+      "id": "r1",
+      "title": "Ram Ringtone 1",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-1.mp3",
+      "duration": "00:20",
+      "category": "Trending",
+      "isPremium": false
+    },
+    {
+      "id": "r2",
+      "title": "Ram Ringtone 2",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-2.mp3",
+      "duration": "00:46",
+      "category": "Bhajan",
+      "isPremium": false
+    },
+    {
+      "id": "r3",
+      "title": "Ram Ringtone 3",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-3.mp3",
+      "duration": "00:25",
+      "category": "Trending",
+      "isPremium": false
+    },
+    {
+      "id": "r4",
+      "title": "Ram Ringtone 4",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-4.mp3",
+      "duration": "00:12",
+      "category": "Mantra",
+      "isPremium": false
+    },
+    {
+      "id": "r5",
+      "title": "Ram Ringtone 5",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-5.mp3",
+      "duration": "00:16",
+      "category": "Bhajan",
+      "isPremium": false
+    },
+    {
+      "id": "r6",
+      "title": "Ram Ringtone 6",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-6.mp3",
+      "duration": "01:10",
+      "category": "Mantra",
+      "isPremium": false
+    },
+    {
+      "id": "r7",
+      "title": "Ram Ringtone 7",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-7.mp3",
+      "duration": "00:14",
+      "category": "Trending",
+      "isPremium": false
+    },
+    {
+      "id": "r8",
+      "title": "Ram Ringtone 8",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-8.mp3",
+      "duration": "00:21",
+      "category": "Mantra",
+      "isPremium": false
+    },
+    {
+      "id": "r9",
+      "title": "Ram Ringtone 9",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-9.mp3",
+      "duration": "00:19",
+      "category": "Bhajan",
+      "isPremium": false
+    },
+    {
+      "id": "r10",
+      "title": "Ram Ringtone 10",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-10.mp3",
+      "duration": "00:24",
+      "category": "Trending",
+      "isPremium": false
+    },
+    {
+      "id": "r11",
+      "title": "Ram Ringtone 11",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-11.mp3",
+      "duration": "00:17",
+      "category": "Bhajan",
+      "isPremium": false
+    },
+    {
+      "id": "r12",
+      "title": "Ram Ringtone 12",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-12.mp3",
+      "duration": "00:21",
+      "category": "Mantra",
+      "isPremium": false
+    },
+    {
+      "id": "r13",
+      "title": "Ram Ringtone 13",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-13.mp3",
+      "duration": "00:21",
+      "category": "Trending",
+      "isPremium": false
+    },
+    {
+      "id": "r14",
+      "title": "Ram Ringtone 14",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-14.mp3",
+      "duration": "00:20",
+      "category": "Mantra",
+      "isPremium": false
+    },
+    {
+      "id": "r15",
+      "title": "Ram Ringtone 15",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-15.mp3",
+      "duration": "00:24",
+      "category": "Bhajan",
+      "isPremium": false
+    },
+    {
+      "id": "r16",
+      "title": "Ram Ringtone 16",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-16.mp3",
+      "duration": "00:24",
+      "category": "Trending",
+      "isPremium": false
+    },
+    {
+      "id": "r17",
+      "title": "Ram Ringtone 17",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-17.mp3",
+      "duration": "00:09",
+      "category": "Mantra",
+      "isPremium": false
+    },
+    {
+      "id": "r18",
+      "title": "Ram Ringtone 18",
+      "audioUrl": "https://raw.githubusercontent.com/AkshayRabadiya/ram_ringtone_assets/main/assets/audio/ram-ringtone-18.mp3",
+      "duration": "00:22",
+      "category": "Bhajan",
+      "isPremium": false
+    }
+  ],
+  "quotes_gu": [
+    {
+      "id": "q1",
+      "text": "શ્રીરામનું નામ માત્ર શબ્દ નથી, એ જીવનને સાચા માર્ગે લઈ જતી અખૂટ શક્તિ છે.",
+      "author": "ગોસ્વામી તુલસીદાસ",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q2",
+      "text": "જ્યાં શ્રીરામનું સ્મરણ હોય છે, ત્યાં ભય નહીં પરંતુ વિશ્વાસ અને શાંતિનો વાસ હોય છે.",
+      "author": "સંત તુલસીદાસ",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q3",
+      "text": "મર્યાદા, સત્ય અને ધર્મનું જીવંત સ્વરૂપ એટલે પ્રભુ શ્રીરામ.",
+      "author": "વાલ્મીકિ",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q4",
+      "text": "દરેક મુશ્કેલીમાં શ્રીરામ પરનો વિશ્વાસ તમને નવી શક્તિ અને હિંમત આપે છે.",
+      "author": "સ્વામી વિવેકાનંદ",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q5",
+      "text": "શ્રીરામનું જીવન શીખવે છે કે ધર્મના માર્ગ પર ચાલનારનો અંતે હંમેશા વિજય થાય છે.",
+      "author": "વાલ્મીકિ",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q6",
+      "text": "જેના હૃદયમાં શ્રીરામ વસે છે, તેના જીવનમાં પ્રેમ, શાંતિ અને સુખ આપમેળે આવી જાય છે.",
+      "author": "સંત કબીર",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q7",
+      "text": "શ્રીરામનું સ્મરણ માત્ર ભક્તિ નથી, તે જીવનને ઉજ્જવળ બનાવતી દિવ્ય પ્રેરણા છે.",
+      "author": "ગોસ્વામી તુલસીદાસ",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q8",
+      "text": "શ્રીરામના આશીર્વાદ સાથે શરૂ થયેલું દરેક કાર્ય સફળતા તરફ આગળ વધે છે.",
+      "author": "મોરારી બાપુ",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q9",
+      "text": "સંકટ કેટલું પણ મોટું હોય, શ્રીરામનું નામ મનને અડગ વિશ્વાસથી ભરી દે છે.",
+      "author": "સંત તુલસીદાસ",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q10",
+      "text": "સત્ય અને કર્તવ્યના માર્ગે ચાલવું હોય તો શ્રીરામના જીવનથી મોટી કોઈ પ્રેરણા નથી.",
+      "author": "વાલ્મીકિ",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q11",
+      "text": "શ્રીરામનું સ્મરણ મનને શાંતિ, આત્માને શક્તિ અને જીવનને નવી દિશા આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q12",
+      "text": "જેના જીવનમાં શ્રીરામનો આશીર્વાદ હોય છે, તેના માટે દરેક મુશ્કેલી સરળ બની જાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q13",
+      "text": "શ્રીરામનું નામ ભક્તિના માર્ગ પર ચાલનાર માટે સૌથી મોટો આધાર છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q14",
+      "text": "સાચા મનથી લેવાયેલું શ્રીરામનું નામ જીવનમાં આશા અને આત્મવિશ્વાસ જગાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q15",
+      "text": "ધર્મના માર્ગે ચાલવું હોય તો શ્રીરામના આદર્શો જીવનમાં ઉતારવા જરૂરી છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q16",
+      "text": "શ્રીરામનો આશરો લેનાર વ્યક્તિ ક્યારેય એકલો અનુભવતો નથી.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q17",
+      "text": "વિશ્વાસ અને ભક્તિ સાથે લેવાયેલું શ્રીરામનું નામ જીવનને ઉજ્જવળ બનાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q18",
+      "text": "શ્રીરામના આશીર્વાદથી અશક્ય લાગતા કાર્યો પણ સરળ બની શકે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q19",
+      "text": "શ્રીરામનું જીવન આપણને સત્ય, ધર્મ અને કર્તવ્યનું મહત્વ સમજાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q20",
+      "text": "જ્યાં શ્રીરામ પ્રત્યે પ્રેમ હોય છે, ત્યાં મનમાં ક્યારેય અંધકાર રહેતો નથી.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q21",
+      "text": "શ્રીરામની ભક્તિ મનને સ્થિરતા અને હૃદયને નિર્મળતા આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q22",
+      "text": "શ્રીરામનું સ્મરણ દરેક દિવસને શુભ અને દરેક કાર્યને સફળ બનાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q23",
+      "text": "જે વ્યક્તિ સત્યનો સાથ આપે છે, તેના જીવનમાં શ્રીરામની કૃપા હંમેશા રહે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q24",
+      "text": "શ્રીરામનું નામ જીવનના દરેક સંઘર્ષમાં નવી શક્તિ અને હિંમત આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q25",
+      "text": "ભક્તિનો સાચો માર્ગ શ્રીરામના ચરણોમાં સમર્પિત થવાથી શરૂ થાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q26",
+      "text": "શ્રીરામનું સ્મરણ જીવનની દરેક ક્ષણને પવિત્ર અને અર્થપૂર્ણ બનાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q27",
+      "text": "શ્રીરામના આદર્શો પર ચાલનાર વ્યક્તિ હંમેશા સન્માન પ્રાપ્ત કરે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q28",
+      "text": "શ્રીરામ પરનો વિશ્વાસ જીવનમાં આત્મબળ અને ધૈર્ય બંને વધારે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q29",
+      "text": "શ્રીરામનું નામ દરેક દુઃખને સહન કરવાની નવી શક્તિ આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q30",
+      "text": "જ્યાં શ્રીરામનું નામ ગુંજે છે, ત્યાં સુખ, શાંતિ અને સકારાત્મકતા વસે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q31",
+      "text": "શ્રીરામનું સ્મરણ મનમાંથી ભય દૂર કરીને વિશ્વાસનું પ્રકાશ ફેલાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q32",
+      "text": "શ્રીરામની કૃપા મળે ત્યારે જીવનનો દરેક માર્ગ સરળ બની જાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q33",
+      "text": "ધૈર્ય, કરુણા અને સત્યનો માર્ગ બતાવનાર શ્રેષ્ઠ આદર્શ છે પ્રભુ શ્રીરામ.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q34",
+      "text": "શ્રીરામનું નામ જીવનના દરેક નવા પ્રારંભ માટે શુભ આશીર્વાદ સમાન છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q35",
+      "text": "જે હૃદયમાં શ્રીરામ વસે છે, ત્યાં અહંકાર માટે કોઈ સ્થાન રહેતું નથી.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q36",
+      "text": "શ્રીરામનું સ્મરણ દરેક મુશ્કેલીમાં આશાની નવી કિરણ પ્રગટાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q37",
+      "text": "પ્રભુ શ્રીરામનો આશીર્વાદ હોય તો જીવનમાં અશક્ય પણ શક્ય બની જાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q38",
+      "text": "શ્રીરામની ભક્તિ મનને વિનમ્રતા અને જીવનને સાચી સમૃદ્ધિ આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q39",
+      "text": "દરરોજ શ્રીરામનું સ્મરણ કરવાથી મનમાં નવી ઉર્જા અને શાંતિનો અનુભવ થાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q40",
+      "text": "શ્રીરામના ચરણોમાં સમર્પિત જીવન હંમેશા સુખ, સંતોષ અને શાંતિથી ભરેલું રહે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q41",
+      "text": "શ્રીરામનું સ્મરણ જીવનના દરેક અંધકારમાં આશાનો પ્રકાશ બનીને માર્ગ બતાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q42",
+      "text": "પ્રભુ શ્રીરામ પરનો અડગ વિશ્વાસ દરેક સંઘર્ષને સફળતામાં બદલવાની શક્તિ આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q43",
+      "text": "શ્રીરામના આદર્શો જીવનમાં અપનાવનાર વ્યક્તિ હંમેશા સન્માન અને વિશ્વાસ મેળવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q44",
+      "text": "શ્રીરામનું નામ માત્ર જાપ નથી, તે આત્માને શાંતિ અને મનને સ્થિરતા આપતું અમૃત છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q45",
+      "text": "જ્યાં ભક્તિમાં શ્રીરામ વસે છે, ત્યાં જીવનમાં ક્યારેય નિરાશા ટકી શકતી નથી.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q46",
+      "text": "શ્રીરામની કૃપા મળવાથી મુશ્કેલ માર્ગ પણ સરળ અને આનંદમય બની જાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q47",
+      "text": "દરેક સવાર શ્રીરામના સ્મરણથી શરૂ થાય તો આખો દિવસ આશીર્વાદથી ભરાઈ જાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q48",
+      "text": "શ્રીરામનું જીવન શીખવે છે કે સત્યનો માર્ગ ભલે કઠિન હોય, પરંતુ વિજય તેનો જ થાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q49",
+      "text": "જેના હૃદયમાં શ્રીરામ માટે પ્રેમ હોય છે, તેનું જીવન હંમેશા પ્રકાશિત રહે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q50",
+      "text": "શ્રીરામની ભક્તિ મનને નમ્રતા, ધૈર્ય અને જીવનને નવી પ્રેરણા આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q51",
+      "text": "શ્રીરામના ચરણોમાં સમર્પિત હૃદયને દુનિયાની કોઈ મુશ્કેલી હલાવી શકતી નથી.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q52",
+      "text": "શ્રીરામનું સ્મરણ જીવનના દરેક નિર્ણયમાં યોગ્ય દિશા અને સાચી સમજ આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q53",
+      "text": "સત્ય, કરુણા અને કર્તવ્યના માર્ગે ચાલનાર માટે શ્રીરામ હંમેશા પ્રેરણાસ્ત્રોત છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q54",
+      "text": "શ્રીરામના આશીર્વાદથી જીવનની દરેક શરૂઆત શુભ અને દરેક અંત સફળ બને છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q55",
+      "text": "મનમાં શ્રીરામનો વિશ્વાસ હોય તો ભય ધીમે ધીમે હિંમતમાં બદલાઈ જાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q56",
+      "text": "શ્રીરામની ભક્તિ માત્ર ઉપાસના નથી, પરંતુ ઉત્તમ જીવન જીવવાની પ્રેરણા છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q57",
+      "text": "શ્રીરામનું નામ દરેક દુઃખને સહન કરવાની શક્તિ અને દરેક સુખમાં વિનમ્રતા શીખવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q58",
+      "text": "જ્યાં શ્રીરામનું સ્મરણ થાય છે, ત્યાં પ્રેમ, શાંતિ અને વિશ્વાસનો સદા નિવાસ રહે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q59",
+      "text": "શ્રીરામના આદર્શો જીવનને માત્ર સફળ નહીં પરંતુ અર્થપૂર્ણ પણ બનાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q60",
+      "text": "શ્રીરામના ચરણોમાં સમર્પિત મન હંમેશા શાંતિ, સંતોષ અને આનંદનો અનુભવ કરે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q61",
+      "text": "દરેક શ્વાસમાં શ્રીરામનું નામ હોય તો જીવનની દરેક ક્ષણ પવિત્ર બની જાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q62",
+      "text": "શ્રીરામનું સ્મરણ મનના તોફાનને શાંત કરીને આત્મવિશ્વાસને મજબૂત બનાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q63",
+      "text": "જે વ્યક્તિ શ્રીરામના માર્ગે ચાલે છે, તે જીવનમાં ક્યારેય દિશાહીન બનતો નથી.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q64",
+      "text": "શ્રીરામનું નામ હૃદયમાં વિશ્વાસ અને જીવનમાં સકારાત્મકતા ભરી દે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q65",
+      "text": "શ્રીરામના આશીર્વાદ સાથે કરેલું દરેક સારા કાર્ય જીવનને સફળતા તરફ દોરી જાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q66",
+      "text": "શ્રીરામની ભક્તિ મનમાં કરુણા, વાણીમાં મીઠાશ અને કર્મમાં સચ્ચાઈ લાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q67",
+      "text": "શ્રીરામનું સ્મરણ જીવનને નવી આશા અને દરેક મુશ્કેલીમાં નવી હિંમત આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q68",
+      "text": "પ્રભુ શ્રીરામના આદર્શો જીવનને સત્ય, ધર્મ અને પ્રેમના માર્ગે આગળ વધારે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q69",
+      "text": "શ્રીરામનું નામ જીવનની દરેક પરીક્ષામાં આત્મબળ અને વિશ્વાસનું સંબળ બને છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q70",
+      "text": "જેના હૃદયમાં શ્રીરામ વસે છે, તેના જીવનમાં સુખ, શાંતિ અને સંતોષનો સદા પ્રકાશ રહે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q71",
+      "text": "શ્રીરામનું સ્મરણ જીવનમાં ધૈર્ય, વિશ્વાસ અને સદાચારનું બીજ વાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q72",
+      "text": "શ્રીરામના આશીર્વાદથી મનને શાંતિ અને જીવનને સાચી દિશા મળે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q73",
+      "text": "જે વ્યક્તિ શ્રીરામને હૃદયમાં સ્થાન આપે છે, તેના જીવનમાં આશા ક્યારેય ઓછી થતી નથી.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q74",
+      "text": "શ્રીરામનું નામ મનને નિર્મળ બનાવે છે અને આત્માને નવી ઊર્જાથી ભરી દે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q75",
+      "text": "પ્રભુ શ્રીરામના આદર્શો જીવનના દરેક સંબંધને પ્રેમ અને વિશ્વાસથી મજબૂત બનાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q76",
+      "text": "દરેક સારા કાર્યની શરૂઆત શ્રીરામના સ્મરણથી થાય તો સફળતા નિશ્ચિત બને છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q77",
+      "text": "શ્રીરામની ભક્તિ જીવનમાં વિનમ્રતા, સંયમ અને કર્તવ્યનિષ્ઠા શીખવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q78",
+      "text": "શ્રીરામનું સ્મરણ દરેક નિરાશામાં નવી આશા અને દરેક સંઘર્ષમાં નવી શક્તિ આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q79",
+      "text": "જેના હૃદયમાં શ્રીરામ પ્રત્યે પ્રેમ હોય છે, તેના જીવનમાં હંમેશા આનંદનો પ્રકાશ રહે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q80",
+      "text": "શ્રીરામનું નામ દરેક મુશ્કેલીમાં હિંમત અને દરેક સફળતામાં વિનમ્રતા જાળવી રાખે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q81",
+      "text": "શ્રીરામની કૃપા જીવનના દરેક અંધકારને આશાના પ્રકાશમાં ફેરવી દે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q82",
+      "text": "શ્રીરામનું સ્મરણ હૃદયને શાંતિ અને મનને અડગ આત્મવિશ્વાસ આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q83",
+      "text": "ધર્મના માર્ગે ચાલનાર માટે શ્રીરામનું જીવન હંમેશા પ્રેરણાનું અખૂટ સ્ત્રોત છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q84",
+      "text": "શ્રીરામના ચરણોમાં સમર્પિત મનને દુનિયાની કોઈ ચિંતા લાંબા સમય સુધી સ્પર્શી શકતી નથી.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q85",
+      "text": "શ્રીરામનું નામ દરેક દિવસને શુભ બનાવે છે અને દરેક ક્ષણને પવિત્ર બનાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q86",
+      "text": "શ્રીરામના આશીર્વાદથી જીવનમાં ધૈર્ય, સંયમ અને સકારાત્મકતા સતત વધતી રહે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q87",
+      "text": "જેના જીવનમાં શ્રીરામનું સ્મરણ હોય છે, ત્યાં નિરાશા કરતાં વિશ્વાસ વધુ મજબૂત રહે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q88",
+      "text": "શ્રીરામની ભક્તિ મનને શાંત રાખે છે અને જીવનને સત્યના માર્ગે આગળ ધપાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q89",
+      "text": "શ્રીરામનું સ્મરણ દરેક સંબંધમાં પ્રેમ, વિશ્વાસ અને આદરની ભાવના વધારે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q90",
+      "text": "પ્રભુ શ્રીરામનું નામ જીવનમાં આત્મબળ, શાંતિ અને સફળતાનો સાચો આધાર છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q91",
+      "text": "શ્રીરામનું સ્મરણ દરેક મુશ્કેલીને સહન કરવાની શક્તિ અને આગળ વધવાની પ્રેરણા આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q92",
+      "text": "શ્રીરામના આદર્શો જીવનને માત્ર સફળ નહીં પરંતુ અર્થપૂર્ણ અને પવિત્ર પણ બનાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q93",
+      "text": "જે હૃદયમાં શ્રીરામ વસે છે, ત્યાં ભય કરતાં વિશ્વાસ અને પ્રેમનો વિજય થાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q94",
+      "text": "શ્રીરામનું નામ મનને સ્થિર રાખે છે અને દરેક નિર્ણયમાં યોગ્ય માર્ગદર્શન આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q95",
+      "text": "શ્રીરામના આશીર્વાદ સાથે જીવાયેલું જીવન હંમેશા શાંતિ, સંતોષ અને આનંદથી ભરેલું રહે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q96",
+      "text": "શ્રીરામની ભક્તિ આપણને સત્ય બોલવાની, કર્તવ્ય નિભાવવાની અને સૌનો આદર કરવાની પ્રેરણા આપે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q97",
+      "text": "શ્રીરામનું સ્મરણ જીવનની દરેક પરીક્ષામાં હિંમત, ધૈર્ય અને આત્મવિશ્વાસ જાળવી રાખે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q98",
+      "text": "પ્રભુ શ્રીરામ પરનો અડગ વિશ્વાસ જીવનને સકારાત્મક વિચારો અને સારા કર્મોથી ભરી દે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q99",
+      "text": "શ્રીરામના ચરણોમાં સમર્પિત હૃદયને દરેક પરિસ્થિતિમાં શાંતિ અને સંતોષનો અનુભવ થાય છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q100",
+      "text": "શ્રીરામનું નામ જીવનનો એવો દિવ્ય આધાર છે, જે દરેક ક્ષણે આશા, વિશ્વાસ અને આનંદની અનુભૂતિ કરાવે છે.",
+      "author": "અજ્ઞાત",
+      "category": "Suvichar",
+      "isPremium": true
+    }
+  ],
+  "quotes_en": [
+    {
+      "id": "q1",
+      "text": "The name of Shri Ram is not just a word, it is an inexhaustible power that leads life on the right path.",
+      "author": "Goswami Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q2",
+      "text": "Where there is the remembrance of Shri Ram, there is no fear but an abode of faith and peace.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q3",
+      "text": "Lord Shri Ram is the living embodiment of dignity, truth, and dharma.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q4",
+      "text": "In every difficulty, faith in Shri Ram gives you new strength and courage.",
+      "author": "Swami Vivekananda",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q5",
+      "text": "The life of Shri Ram teaches that one who walks the path of dharma is always victorious in the end.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q6",
+      "text": "He whose heart is filled with devotion to Ram, finds peace and joy automatically.",
+      "author": "Sant Kabir",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q7",
+      "text": "Chanting the name of Ram is the greatest remedy for all the sorrows of life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q8",
+      "text": "Every task begun with the blessings of Lord Ram always leads to success.",
+      "author": "Morari Bapu",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q9",
+      "text": "No matter how big the crisis, the name of Ram fills the mind with unshakable faith.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q10",
+      "text": "There is no greater inspiration to walk the path of truth and duty than the life of Ram.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q11",
+      "text": "The remembrance of Ram gives peace to the mind, strength to the soul, and a new direction to life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q12",
+      "text": "For the one who has the blessings of Shri Ram, every difficulty becomes easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q13",
+      "text": "The name of Ram is the greatest support for those walking on the path of devotion.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q14",
+      "text": "The name of Ram taken with a pure heart awakens hope and self-confidence in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q15",
+      "text": "If you want to walk the path of religion, it is necessary to imbibe the ideals of Shri Ram in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q16",
+      "text": "A person who takes refuge in Shri Ram never feels alone.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q17",
+      "text": "The name of Ram taken with faith and devotion brightens life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q18",
+      "text": "With the blessings of Shri Ram, even tasks that seem impossible can become easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q19",
+      "text": "The life of Shri Ram explains to us the importance of truth, religion, and duty.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q20",
+      "text": "Where there is love for Shri Ram, there is never darkness in the mind.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q21",
+      "text": "The name of Shri Ram is not just a word, it is an inexhaustible power that leads life on the right path.",
+      "author": "Goswami Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q22",
+      "text": "Where there is the remembrance of Shri Ram, there is no fear but an abode of faith and peace.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q23",
+      "text": "Lord Shri Ram is the living embodiment of dignity, truth, and dharma.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q24",
+      "text": "In every difficulty, faith in Shri Ram gives you new strength and courage.",
+      "author": "Swami Vivekananda",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q25",
+      "text": "The life of Shri Ram teaches that one who walks the path of dharma is always victorious in the end.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q26",
+      "text": "He whose heart is filled with devotion to Ram, finds peace and joy automatically.",
+      "author": "Sant Kabir",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q27",
+      "text": "Chanting the name of Ram is the greatest remedy for all the sorrows of life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q28",
+      "text": "Every task begun with the blessings of Lord Ram always leads to success.",
+      "author": "Morari Bapu",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q29",
+      "text": "No matter how big the crisis, the name of Ram fills the mind with unshakable faith.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q30",
+      "text": "There is no greater inspiration to walk the path of truth and duty than the life of Ram.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q31",
+      "text": "The remembrance of Ram gives peace to the mind, strength to the soul, and a new direction to life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q32",
+      "text": "For the one who has the blessings of Shri Ram, every difficulty becomes easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q33",
+      "text": "The name of Ram is the greatest support for those walking on the path of devotion.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q34",
+      "text": "The name of Ram taken with a pure heart awakens hope and self-confidence in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q35",
+      "text": "If you want to walk the path of religion, it is necessary to imbibe the ideals of Shri Ram in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q36",
+      "text": "A person who takes refuge in Shri Ram never feels alone.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q37",
+      "text": "The name of Ram taken with faith and devotion brightens life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q38",
+      "text": "With the blessings of Shri Ram, even tasks that seem impossible can become easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q39",
+      "text": "The life of Shri Ram explains to us the importance of truth, religion, and duty.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q40",
+      "text": "Where there is love for Shri Ram, there is never darkness in the mind.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q41",
+      "text": "The name of Shri Ram is not just a word, it is an inexhaustible power that leads life on the right path.",
+      "author": "Goswami Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q42",
+      "text": "Where there is the remembrance of Shri Ram, there is no fear but an abode of faith and peace.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q43",
+      "text": "Lord Shri Ram is the living embodiment of dignity, truth, and dharma.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q44",
+      "text": "In every difficulty, faith in Shri Ram gives you new strength and courage.",
+      "author": "Swami Vivekananda",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q45",
+      "text": "The life of Shri Ram teaches that one who walks the path of dharma is always victorious in the end.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q46",
+      "text": "He whose heart is filled with devotion to Ram, finds peace and joy automatically.",
+      "author": "Sant Kabir",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q47",
+      "text": "Chanting the name of Ram is the greatest remedy for all the sorrows of life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q48",
+      "text": "Every task begun with the blessings of Lord Ram always leads to success.",
+      "author": "Morari Bapu",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q49",
+      "text": "No matter how big the crisis, the name of Ram fills the mind with unshakable faith.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q50",
+      "text": "There is no greater inspiration to walk the path of truth and duty than the life of Ram.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q51",
+      "text": "The remembrance of Ram gives peace to the mind, strength to the soul, and a new direction to life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q52",
+      "text": "For the one who has the blessings of Shri Ram, every difficulty becomes easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q53",
+      "text": "The name of Ram is the greatest support for those walking on the path of devotion.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q54",
+      "text": "The name of Ram taken with a pure heart awakens hope and self-confidence in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q55",
+      "text": "If you want to walk the path of religion, it is necessary to imbibe the ideals of Shri Ram in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q56",
+      "text": "A person who takes refuge in Shri Ram never feels alone.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q57",
+      "text": "The name of Ram taken with faith and devotion brightens life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q58",
+      "text": "With the blessings of Shri Ram, even tasks that seem impossible can become easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q59",
+      "text": "The life of Shri Ram explains to us the importance of truth, religion, and duty.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q60",
+      "text": "Where there is love for Shri Ram, there is never darkness in the mind.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q61",
+      "text": "The name of Shri Ram is not just a word, it is an inexhaustible power that leads life on the right path.",
+      "author": "Goswami Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q62",
+      "text": "Where there is the remembrance of Shri Ram, there is no fear but an abode of faith and peace.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q63",
+      "text": "Lord Shri Ram is the living embodiment of dignity, truth, and dharma.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q64",
+      "text": "In every difficulty, faith in Shri Ram gives you new strength and courage.",
+      "author": "Swami Vivekananda",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q65",
+      "text": "The life of Shri Ram teaches that one who walks the path of dharma is always victorious in the end.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q66",
+      "text": "He whose heart is filled with devotion to Ram, finds peace and joy automatically.",
+      "author": "Sant Kabir",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q67",
+      "text": "Chanting the name of Ram is the greatest remedy for all the sorrows of life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q68",
+      "text": "Every task begun with the blessings of Lord Ram always leads to success.",
+      "author": "Morari Bapu",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q69",
+      "text": "No matter how big the crisis, the name of Ram fills the mind with unshakable faith.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q70",
+      "text": "There is no greater inspiration to walk the path of truth and duty than the life of Ram.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q71",
+      "text": "The remembrance of Ram gives peace to the mind, strength to the soul, and a new direction to life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q72",
+      "text": "For the one who has the blessings of Shri Ram, every difficulty becomes easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q73",
+      "text": "The name of Ram is the greatest support for those walking on the path of devotion.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q74",
+      "text": "The name of Ram taken with a pure heart awakens hope and self-confidence in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q75",
+      "text": "If you want to walk the path of religion, it is necessary to imbibe the ideals of Shri Ram in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q76",
+      "text": "A person who takes refuge in Shri Ram never feels alone.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q77",
+      "text": "The name of Ram taken with faith and devotion brightens life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q78",
+      "text": "With the blessings of Shri Ram, even tasks that seem impossible can become easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q79",
+      "text": "The life of Shri Ram explains to us the importance of truth, religion, and duty.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q80",
+      "text": "Where there is love for Shri Ram, there is never darkness in the mind.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q81",
+      "text": "The name of Shri Ram is not just a word, it is an inexhaustible power that leads life on the right path.",
+      "author": "Goswami Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q82",
+      "text": "Where there is the remembrance of Shri Ram, there is no fear but an abode of faith and peace.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q83",
+      "text": "Lord Shri Ram is the living embodiment of dignity, truth, and dharma.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q84",
+      "text": "In every difficulty, faith in Shri Ram gives you new strength and courage.",
+      "author": "Swami Vivekananda",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q85",
+      "text": "The life of Shri Ram teaches that one who walks the path of dharma is always victorious in the end.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q86",
+      "text": "He whose heart is filled with devotion to Ram, finds peace and joy automatically.",
+      "author": "Sant Kabir",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q87",
+      "text": "Chanting the name of Ram is the greatest remedy for all the sorrows of life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q88",
+      "text": "Every task begun with the blessings of Lord Ram always leads to success.",
+      "author": "Morari Bapu",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q89",
+      "text": "No matter how big the crisis, the name of Ram fills the mind with unshakable faith.",
+      "author": "Sant Tulsidas",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q90",
+      "text": "There is no greater inspiration to walk the path of truth and duty than the life of Ram.",
+      "author": "Valmiki",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q91",
+      "text": "The remembrance of Ram gives peace to the mind, strength to the soul, and a new direction to life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q92",
+      "text": "For the one who has the blessings of Shri Ram, every difficulty becomes easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q93",
+      "text": "The name of Ram is the greatest support for those walking on the path of devotion.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q94",
+      "text": "The name of Ram taken with a pure heart awakens hope and self-confidence in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q95",
+      "text": "If you want to walk the path of religion, it is necessary to imbibe the ideals of Shri Ram in life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q96",
+      "text": "A person who takes refuge in Shri Ram never feels alone.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q97",
+      "text": "The name of Ram taken with faith and devotion brightens life.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q98",
+      "text": "With the blessings of Shri Ram, even tasks that seem impossible can become easy.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q99",
+      "text": "The life of Shri Ram explains to us the importance of truth, religion, and duty.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q100",
+      "text": "Where there is love for Shri Ram, there is never darkness in the mind.",
+      "author": "Unknown",
+      "category": "Suvichar",
+      "isPremium": true
+    }
+  ],
+  "quotes_hi": [
+    {
+      "id": "q1",
+      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
+      "author": "गोस्वामी तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q2",
+      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q3",
+      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q4",
+      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
+      "author": "स्वामी विवेकानंद",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q5",
+      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q6",
+      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
+      "author": "संत कबीर",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q7",
+      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q8",
+      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
+      "author": "मोरारी बापू",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q9",
+      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q10",
+      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q11",
+      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q12",
+      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q13",
+      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q14",
+      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q15",
+      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q16",
+      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q17",
+      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q18",
+      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q19",
+      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q20",
+      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q21",
+      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
+      "author": "गोस्वामी तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q22",
+      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q23",
+      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q24",
+      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
+      "author": "स्वामी विवेकानंद",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q25",
+      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q26",
+      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
+      "author": "संत कबीर",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q27",
+      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q28",
+      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
+      "author": "मोरारी बापू",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q29",
+      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q30",
+      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q31",
+      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q32",
+      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q33",
+      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q34",
+      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q35",
+      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q36",
+      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q37",
+      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q38",
+      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q39",
+      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q40",
+      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q41",
+      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
+      "author": "गोस्वामी तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q42",
+      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q43",
+      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q44",
+      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
+      "author": "स्वामी विवेकानंद",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q45",
+      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q46",
+      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
+      "author": "संत कबीर",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q47",
+      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q48",
+      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
+      "author": "मोरारी बापू",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q49",
+      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q50",
+      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q51",
+      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q52",
+      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q53",
+      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q54",
+      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q55",
+      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q56",
+      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q57",
+      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q58",
+      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q59",
+      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q60",
+      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q61",
+      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
+      "author": "गोस्वामी तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q62",
+      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q63",
+      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q64",
+      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
+      "author": "स्वामी विवेकानंद",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q65",
+      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q66",
+      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
+      "author": "संत कबीर",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q67",
+      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q68",
+      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
+      "author": "मोरारी बापू",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q69",
+      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q70",
+      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q71",
+      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q72",
+      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q73",
+      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q74",
+      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q75",
+      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q76",
+      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q77",
+      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q78",
+      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q79",
+      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q80",
+      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q81",
+      "text": "श्री राम का नाम केवल एक शब्द नहीं है, यह जीवन को सही मार्ग पर ले जाने वाली अटूट शक्ति है।",
+      "author": "गोस्वामी तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q82",
+      "text": "जहाँ श्री राम का स्मरण होता है, वहाँ भय नहीं बल्कि विश्वास और शांति का वास होता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q83",
+      "text": "मर्यादा, सत्य और धर्म का जीवंत स्वरूप हैं प्रभु श्री राम।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q84",
+      "text": "हर कठिनाई में श्री राम पर विश्वास आपको नई शक्ति और साहस देता है।",
+      "author": "स्वामी विवेकानंद",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q85",
+      "text": "श्री राम का जीवन सिखाता है कि जो धर्म के मार्ग पर चलता है, उसकी अंततः हमेशा विजय होती है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q86",
+      "text": "जिसके हृदय में श्री राम बसते हैं, उसके जीवन में प्रेम, शांति और सुख अपने आप आ जाता है।",
+      "author": "संत कबीर",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q87",
+      "text": "श्री राम का स्मरण मात्र भक्ति नहीं, यह जीवन को उज्ज्वल बनाने वाली दिव्य प्रेरणा है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q88",
+      "text": "श्री राम के आशीर्वाद के साथ शुरू किया गया हर कार्य सफलता की ओर बढ़ता है।",
+      "author": "मोरारी बापू",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q89",
+      "text": "संकट चाहे कितना भी बड़ा हो, श्री राम का नाम मन को अडिग विश्वास से भर देता है।",
+      "author": "संत तुलसीदास",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q90",
+      "text": "सत्य और कर्तव्य के मार्ग पर चलना हो तो श्री राम के जीवन से बड़ी कोई प्रेरणा नहीं है।",
+      "author": "वाल्मीकि",
+      "category": "Suvichar",
+      "isPremium": true
+    },
+    {
+      "id": "q91",
+      "text": "श्री राम का स्मरण मन को शांति, आत्मा को शक्ति और जीवन को नई दिशा देता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q92",
+      "text": "जिसके जीवन में श्री राम का आशीर्वाद होता है, उसके लिए हर मुश्किल आसान हो जाती है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q93",
+      "text": "श्री राम का नाम भक्ति के मार्ग पर चलने वालों के लिए सबसे बड़ा आधार है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q94",
+      "text": "सच्चे मन से लिया गया श्री राम का नाम जीवन में आशा और आत्मविश्वास जगाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q95",
+      "text": "धर्म के मार्ग पर चलना हो तो श्री राम के आदर्शों को जीवन में उतारना आवश्यक है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q96",
+      "text": "श्री राम का आश्रय लेने वाला व्यक्ति कभी अकेला महसूस नहीं करता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q97",
+      "text": "विश्वास और भक्ति के साथ लिया गया श्री राम का नाम जीवन को उज्ज्वल बनाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q98",
+      "text": "श्री राम के आशीर्वाद से असंभव लगने वाले कार्य भी आसान हो सकते हैं।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q99",
+      "text": "श्री राम का जीवन हमें सत्य, धर्म और कर्तव्य का महत्व समझाता है।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": false
+    },
+    {
+      "id": "q100",
+      "text": "जहाँ श्री राम के प्रति प्रेम होता है, वहाँ मन में कभी अंधकार नहीं रहता।",
+      "author": "अज्ञात",
+      "category": "Suvichar",
+      "isPremium": true
+    }
+  ]
+}
